@@ -14,12 +14,19 @@ const Header = () => (
             maxWidth: 960,
             padding: '1.45rem 1.0875rem',
         }}>
-            <h1 style={{margin: 0}}>
+            <h1 style={{margin: 0, display: "inline-block"}}>
                 <Link to="/" style={{
                     color: 'white',
                     textDecoration: 'none',
                 }}>t2bot.io</Link>
             </h1>
+            <div style={{
+                float: "right",
+                marginTop: "0.6rem"
+            }}>
+                <div className="nav-link"><a href="https://status.t2bot.io">status.t2bot.io</a></div>
+                <div className="nav-link"><a href="https://matrix.to/#/#help:t2bot.io">#help:t2bot.io</a></div>
+            </div>
         </div>
     </div>
 );

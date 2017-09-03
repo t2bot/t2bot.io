@@ -1,3 +1,17 @@
+.nav-link {
+    color: white;
+    margin-right: 1.0rem;
+    display: inline-block;
+}
+
+.nav-link:last-child {
+    margin-right: 0;
+}
+
+.nav-link a {
+    color: white;
+}
+
 a {
     text-decoration: none;
 }
