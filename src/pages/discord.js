@@ -7,6 +7,7 @@ const DiscordPage = () => (
         <ol>
             <li>Invite the bridge to your Discord guild: <a href="https://discordapp.com/api/oauth2/authorize?client_id=309408702530846730&scope=bot&permissions=607243264" target="_blank">Click Me</a>. The bot will need all of the permissions selected.</li>
             <li>Open the room in the Discord app in your web browser</li>
+            <li>Add a webhook named <code>_matrix</code> to each room you'd like to bridge.</li>
             <li>
                 Join the Discord room in Matrix/Riot using the following as reference:
                 <img src="/img/discord-url.png" style={{display: "block"}}/>
