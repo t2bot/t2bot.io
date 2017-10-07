@@ -9,6 +9,7 @@ const TelegramPage = () => (
             <li>Invite @matrix_t2bot to your Telegram group</li>
             <li>Send the message <code>/alias</code> in Telegram. This will give you a Matrix alias that we'll use in a moment.</li>
             <li>Create or open the room you want to bridge in Matrix/Riot</li>
+            <li>Make sure the room is accessible to anyone who knows the room's link (not invite-only).</li>
             <li>Invite <a href="https://matrix.to/#/@alias:t2bot.io">@alias:t2bot.io</a> to your room</li>
             <li>Send the message <code>!alias TheAliasFromEarlier</code> where <code>TheAliasFromEarlier</code> is the alias from step 2</li>
             <li>Start chatting!</li>
