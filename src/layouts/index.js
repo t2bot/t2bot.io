@@ -33,16 +33,13 @@ const Header = () => (
 
 const TemplateWrapper = ({children}) => (
     <div>
-        <Helmet title="t2bot.io" meta={[
-            {
-                name: 'description',
-                content: 'Public bridges, bots, and integrations. Visit #help:t2bot.io for more information.'
-            },
-            {
-                name: 'keywords',
-                content: 'matrix, homeserver, bridges, bots, integrations, public'
-            },
-        ]}>
+        <Helmet>
+            <title>t2bot.io</title>
+            <meta name="description" content="Public bridges, bots, and integrations. Visit #help:t2bot.io for more information."/>
+            <meta name="keywords" content="matrix, homeserver, bridges, bots, integrations, public"/>
+
+            <meta property="og:image" content="/img/favicon/favicon-96x96.png"/>
+
             <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png"/>
             <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png"/>
             <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png"/>
