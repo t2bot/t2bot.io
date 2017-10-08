@@ -8,7 +8,7 @@ const DimensionPage = () => (
         <br/>
         <br/>
         <br/>
-        <p>To learn more about the bot, or to contribute, please see <a href="https://github.com/turt2live/matrix-dimension">turt2live/matrix-dimension</a> on Github.</p>
+        <p>To learn more about Dimension, or to contribute, please see <a href="https://github.com/turt2live/matrix-dimension">turt2live/matrix-dimension</a> on Github.</p>
     </div>
 );
 
