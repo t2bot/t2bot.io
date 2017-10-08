@@ -25,6 +25,14 @@
 body, html {
     background-color: #fff;
 }
+
+.t2-sectionHeader {
+    margin-bottom: 5px;
+}
+
+.t2-sectionHeader:not(:first-child) {
+    margin-top: 20px;
+}
 /* end t2bot.io customizations */
 
 .nav-link {

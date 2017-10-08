@@ -11,7 +11,7 @@ const IndexPage = () => (
         <p>If you're unsure of how to set anything up, or have any questions/requests, please visit <a
             href="https://matrix.to/#/#help:t2bot.io">#help:t2bot.io</a> in matrix.</p>
 
-        <h3>Bridges</h3>
+        <h3 className="t2-sectionHeader">Bridges</h3>
         <p>Bridges allow people on other platforms to interact with matrix users, and vice-versa.</p>
         <div className="t2-integration">
             <img src="/img/logos/mx-webhooks.png"/>
@@ -34,7 +34,7 @@ const IndexPage = () => (
             <strong className="title"><Link to="/email">Email Bridge</Link></strong>
         </div>
 
-        <h3>Bots</h3>
+        <h3 className="t2-sectionHeader">Bots</h3>
         <p>Bots provide utility or entertainment to your rooms on matrix. Some of them are just silly as well.</p>
         <div className="t2-integration">
             <img src="/img/logos/mx-voyager.png"/>
@@ -65,7 +65,7 @@ const IndexPage = () => (
             <strong className="title"><Link to="/haikubot">Haiku Bot</Link></strong>
         </div>
 
-        <h3>Other services</h3>
+        <h3 className="t2-sectionHeader">Other services</h3>
         <p>Not everything t2bot.io runs is a bot or bridge. Here's everything else that may be of interest.</p>
         <div className="t2-integration">
             <img src="/img/logos/mx-dimension.png"/>
