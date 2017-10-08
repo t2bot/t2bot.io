@@ -1,3 +1,28 @@
+/* t2bot.io customizations */
+.t2-integration {
+    width: 250px;
+    display: inline-block;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    background-color: #eee;
+    margin: 0 10px 10px 0;
+}
+
+.t2-integration img {
+    width: 42px;
+    height: 42px;
+    float: left;
+    margin: 0 5px 0 0;
+    background-color: #fff;
+}
+
+.t2-integration .title {
+    line-height: 42px;
+    margin: 0;
+    vertical-align: middle;
+}
+/* end t2bot.io customizations */
+
 .nav-link {
     color: white;
     margin-right: 1.0rem;

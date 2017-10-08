@@ -17,7 +17,7 @@ const TelegramPage = () => (
         <br/>
         <br/>
         <br/>
-        <p>To learn more about the bridge, or to contribute, please see <a href="https://github.com/SijmenSchoon/telematrix">SijmenSchoon/telematrix</a> on Github.</p>
+        <p>Telematrix is a third-party bridge not maintained by t2bot.io/turt2live. To learn more about the bridge, or to contribute, please see <a href="https://github.com/SijmenSchoon/telematrix">SijmenSchoon/telematrix</a> on Github.</p>
     </div>
 );
 

@@ -12,7 +12,7 @@ const EmailPage = () => (
         <br/>
         <br/>
         <br/>
-        <p>To learn more about the bridge, or to contribute, please see <a href="https://github.com/kamax-io/matrix-appservice-email">kamax-io/matrix-appservice-email</a> on Github.</p>
+        <p>The Email bridge is a third-party bridge not maintained by t2bot.io/turt2live. To learn more about the bridge, or to contribute, please see <a href="https://github.com/kamax-io/matrix-appservice-email">kamax-io/matrix-appservice-email</a> on Github.</p>
     </div>
 );
 

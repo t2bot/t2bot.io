@@ -9,7 +9,7 @@ const PollBotPage = () => (
         <br/>
         <br/>
         <br/>
-        <p>To learn more about the bot, or to contribute, please see <a href="https://github.com/shawnanastasio/matrix-pollbot">shawnanastasio/matrix-pollbot</a> on Github.</p>
+        <p>Pollbot is a third-party bot not maintained by t2bot.io/turt2live. To learn more about the bot, or to contribute, please see <a href="https://github.com/shawnanastasio/matrix-pollbot">shawnanastasio/matrix-pollbot</a> on Github.</p>
     </div>
 );
 

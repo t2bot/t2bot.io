@@ -17,7 +17,7 @@ const DiscordPage = () => (
         <br/>
         <br/>
         <br/>
-        <p>To learn more about the bridge, or to contribute, please see <a href="https://github.com/half-shot/matrix-appservice-discord">half-shot/matrix-appservice-discord</a> on Github.</p>
+        <p>The Discord bridge is a third-party bridge not maintained by t2bot.io/turt2live. To learn more about the bridge, or to contribute, please see <a href="https://github.com/half-shot/matrix-appservice-discord">half-shot/matrix-appservice-discord</a> on Github.</p>
     </div>
 );
 
