@@ -27,6 +27,7 @@ const Header = () => (
                 <div className="nav-link"><a href="https://status.t2bot.io">status.t2bot.io</a></div>
                 <div className="nav-link"><a href="https://matrix.to/#/#help:t2bot.io">#help:t2bot.io</a></div>
             </div>
+            <div style={{ clear: 'both' }}></div>
         </div>
     </div>
 );
