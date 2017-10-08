@@ -21,6 +21,10 @@
     margin: 0;
     vertical-align: middle;
 }
+
+body, html {
+    background-color: #fff;
+}
 /* end t2bot.io customizations */
 
 .nav-link {
