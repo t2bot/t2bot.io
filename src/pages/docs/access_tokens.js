@@ -4,7 +4,7 @@ const AccessTokensPage = () => (
     <div>
         <h2>Access Tokens</h2>
         <p>When setting up bots, it is common for the bot to require an "access token" of sorts in order to work. Access
-            tokens authenticate the bot to the serverso they can function. To get an access token for your bot, follow
+            tokens authenticate the bot to the server so they can function. To get an access token for your bot, follow
             these steps:</p>
         <ol>
             <li>In a private browsing session (incognito window), open Riot.</li>
