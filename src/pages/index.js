@@ -41,7 +41,7 @@ const IndexPage = () => (
             <strong className="title"><Link to="/voyager">Matrix Traveler</Link></strong>
         </div>
         <div className="t2-integration">
-            <img src="/img/logos/mx-email.png"/>
+            <img src="/img/logos/mx-email-bot.png"/>
             <strong className="title"><Link to="/emailbot">Email Bot</Link></strong>
         </div>
         <div className="t2-integration">
