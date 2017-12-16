@@ -6,7 +6,7 @@ import "./index.css";
 
 const Header = () => (
     <div style={{
-        background: '#428cf4',
+        background: '#29395c',
         marginBottom: '1.2rem',
     }}>
         <div style={{
@@ -18,7 +18,9 @@ const Header = () => (
                 <Link to="/" style={{
                     color: 'white',
                     textDecoration: 'none',
-                }}>t2bot.io</Link>
+                }}>
+                    <img src="/img/t2bot-banner.png" style={{margin: 0}} />
+                </Link>
             </h1>
             <div style={{
                 float: "right",
@@ -39,7 +41,8 @@ const TemplateWrapper = ({children}) => (
             <meta name="description" content="Public bridges, bots, and integrations. Visit #help:t2bot.io for more information."/>
             <meta name="keywords" content="matrix, homeserver, bridges, bots, integrations, public"/>
 
-            <meta property="og:image" content="/img/favicon/favicon-96x96.png"/>
+            <meta property="og:image" content="/img/t2bot-stacked.png"/>
+            <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto:300" rel="stylesheet" />
 
             <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png"/>
             <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png"/>
