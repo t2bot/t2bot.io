@@ -47,6 +47,10 @@ const IndexPage = () => (
             <strong className="title"><Link to="/aliasbot">Alias Bot</Link></strong>
         </div>
         <div className="t2-integration">
+            <img src="/img/logos/mx-gitlab.png"/>
+            <strong className="title"><Link to="/gitlab">Gitlab Bot</Link></strong>
+        </div>
+        <div className="t2-integration">
             <img src="/img/logos/mx-pollbot.png"/>
             <strong className="title"><Link to="/pollbot">Pollbot</Link></strong>
         </div>
