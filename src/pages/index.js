@@ -66,6 +66,10 @@ const IndexPage = () => (
             <img src="/img/logos/mx-haiku.png"/>
             <strong className="title"><Link to="/haikubot">Haiku Bot</Link></strong>
         </div>
+        <div className="t2-integration">
+            <img src="/img/logos/mx-hyperbot.png"/>
+            <strong className="title"><Link to="/hyperbot">Hyperbot</Link></strong>
+        </div>
 
         <h3 className="t2-sectionHeader">Other services</h3>
         <p>Not everything t2bot.io runs is a bot or bridge. Here's everything else that may be of interest.</p>
