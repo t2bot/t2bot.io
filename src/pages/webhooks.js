@@ -5,7 +5,7 @@ const WebhooksPage = () => (
         <h2>Webhooks Bridge</h2>
         <p>The webhooks bridge enables the ability for you to post messages to the room without needing to set up a
             matrix account.</p>
-        <p>To start using the bridge, invite <a href="https://matrix.to/#/@_webhook:t2bot.io">@webhook:t2bot.io</a> to
+        <p>To start using the bridge, invite <a href="https://matrix.to/#/@_webhook:t2bot.io">@_webhook:t2bot.io</a> to
             the room then send the command <code>!webhook</code>. The bot will send you a message with more information,
             including the URL you'll post messages to.</p>
         <h4>Using the webhook URL</h4>
