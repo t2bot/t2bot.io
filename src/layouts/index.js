@@ -42,7 +42,7 @@ const TemplateWrapper = ({children}) => (
             <meta name="keywords" content="matrix, homeserver, bridges, bots, integrations, public"/>
 
             <meta property="og:image" content="/img/t2bot-stacked.png"/>
-            <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto:300" rel="stylesheet" />
+            <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet" />
 
             <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png"/>
             <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png"/>
