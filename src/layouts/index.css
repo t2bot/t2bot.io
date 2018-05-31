@@ -33,6 +33,35 @@ body, html {
 .t2-sectionHeader:not(:first-child) {
     margin-top: 20px;
 }
+
+.t2_UserPill {
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    background-color: #eaeaea;
+    padding: 0 6px 0 5px;
+    line-height: 20px;
+    border-radius: 20px;
+    position: relative;
+    top: 1px;
+}
+
+.t2_UserPill_avatar {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: -2px;
+    top: 2px;
+}
+
+.t2_UserPill_displayName {
+    margin-left: 3px;
+    font-size: 17px;
+    position: relative;
+    top: -1.5px;
+}
 /* end t2bot.io customizations */
 
 .nav-link {
