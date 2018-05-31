@@ -4,9 +4,11 @@
   "version": "1.0.0",
   "author": "Travis Ralston",
   "dependencies": {
-    "gatsby": "^1.9.17",
-    "gatsby-link": "^1.6.15",
-    "gatsby-plugin-react-helmet": "^1.0.5"
+    "axios": "^0.18.0",
+    "gatsby": "^1.9.261",
+    "gatsby-link": "^1.6.44",
+    "gatsby-plugin-react-helmet": "^2.0.11",
+    "react-helmet": "^5.2.0"
   },
   "keywords": [
     "gatsby"
@@ -14,11 +16,6 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
-    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "devDependencies": {
-    "prettier": "^1.6.1"
+    "develop": "gatsby develop -p 8181"
   }
 }
