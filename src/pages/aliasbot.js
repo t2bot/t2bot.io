@@ -1,14 +1,24 @@
 import React from "react";
-import Link from "gatsby-link";
+import UserPill from "../layouts/user_pill";
 
 const AliasBotPage = () => (
     <div>
-        <h2>Alias Bot</h2>
-        <p><a href="https://matrix.to/#/@alias:t2bot.io">@alias:t2bot.io</a> is a bot that allows you to add room aliases for the t2bot.io domain. It exists for the <Link to="/telegram">Telegram Bridge</Link> to work.</p>
-        <br/>
-        <br/>
-        <br/>
-        <p>To learn more about the bot, or to contribute, please see <a href="https://github.com/turt2live/matrix-alias-bot">turt2live/matrix-alias-bot</a> on Github.</p>
+        <h2 className="t2-pageHeading">Alias Bot</h2>
+        <p className="t2-repoInfo">
+            Github Repository: <a href="https://github.com/turt2live/matrix-alias-bot">turt2live/matrix-alias-bot</a><br/>
+        </p>
+        <p>
+            <UserPill userId="@alias:t2bot.io"/> is a bot that allows you to add room aliases for the t2bot.io domain.
+        </p>
+        <h4>Adding an alias to a room</h4>
+        <ol>
+            <li>Invite <UserPill userId="@alias:t2bot.io"/> to your room</li>
+            <li>Send the message <code>!alias #ab-YourAlias</code> where <code>YourAlias</code> is the name you want to add. Aliases must start with <code>ab-</code></li>
+        </ol>
+        <h4>Removing an alias from a room</h4>
+        <ol>
+            <li>With <UserPill userId="@alias:t2bot.io"/> in the room, send the message <code>!alias remove #ab-YourAlias</code></li>
+        </ol>
     </div>
 );
 

@@ -1,23 +1,31 @@
 import React from "react";
+import UserPill from "../layouts/user_pill";
 
 const TelegramPage = () => (
     <div>
-        <h2>Telegram Bridge</h2>
-        <div style={{background: '#ffdd2e', padding: '1.1rem', marginBottom: '1rem'}}><strong>Telegram bridging is beta!</strong> The bridge may not work at times, or may be difficult to set up. Please visit <a href="https://matrix.to/#/#help:t2bot.io">#help:t2bot.io</a> if you run into any issues.</div>
-        <p>The Telegram bridge is based off of <a href="https://github.com/SijmenSchoon/telematrix">SijmenSchoon/telematrix</a> and has a little bit of setup to get it working in Matrix:</p>
+        <h2 className="t2-pageHeading">Telegram Bridge</h2>
+        <p className="t2-repoInfo">
+            Github Repository: <a href="https://github.com/tulir/mautrix-telegram">tulir/mautrix-telegram</a> (third party)<br/>
+        </p>
+        <p>
+            The Telegram bridge allows Telegram and Matrix users to communicate with each other.
+        </p>
+        <h4>Adding the Telegram bridge to your room</h4>
         <ol>
-            <li>Invite @matrix_t2bot to your Telegram group</li>
-            <li>Send the message <code>/alias</code> in Telegram. This will give you a Matrix alias that we'll use in a moment.</li>
-            <li>Create or open the room you want to bridge in Matrix/Riot</li>
-            <li>Make sure the room is accessible to anyone who knows the room's link (not invite-only).</li>
-            <li>Invite <a href="https://matrix.to/#/@alias:t2bot.io">@alias:t2bot.io</a> to your room</li>
-            <li>Send the message <code>!alias TheAliasFromEarlier</code> where <code>TheAliasFromEarlier</code> is the alias from step 2</li>
-            <li>Start chatting!</li>
+            <li>Invite <code>@matrix_t2bot</code> to your Telegram group or channel</li>
+            <li>In Telegram, type the command <code>/id</code> to get a number returned to you by the bridge</li>
+            <li>Invite <UserPill userId="@telegram:t2bot.io"/> to your Matrix room</li>
+            <li>In Matrix, send the message <code>!tg bridge &lt;the number from earlier&gt;</code>. Example: <code>!tg bridge -23456789</code></li>
+            <li>The bridge will ask you to confirm the bridge. Do this by sending the message <code>!tg continue</code>
+            </li>
+            <li>Your room should now be bridged to Telegram</li>
         </ol>
-        <br/>
-        <br/>
-        <br/>
-        <p>Telematrix is a third-party bridge not maintained by t2bot.io/turt2live. To learn more about the bridge, or to contribute, please see <a href="https://github.com/SijmenSchoon/telematrix">SijmenSchoon/telematrix</a> on Github.</p>
+        <h4>Removing the Telegram bridge from your room</h4>
+        <ol>
+            <li>In the Matrix room you'd like to unbridge, send the message <code>!tg unbridge</code></li>
+            <li>The bridge will ask you to confirm that you'd like to unbridge the room. Do this by sending the message <code>!tg confirm-unbridge</code></li>
+            <li>The bridged users should automatically leave and the bridge will be severed</li>
+        </ol>
     </div>
 );
 
