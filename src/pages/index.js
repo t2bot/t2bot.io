@@ -58,6 +58,10 @@ const IndexPage = () => (
             <strong className="title"><Link to="/pollbot">Pollbot</Link></strong>
         </div>
         <div className="t2-integration">
+            <img src="https://t2bot.io/_matrix/media/r0/thumbnail/t2bot.io/838b50bff9ee7a7759b50c25ebbf2435?width=48&height=48&method=crop"/>
+            <strong className="title"><Link to="/trellobot">Trello Bot</Link></strong>
+        </div>
+        <div className="t2-integration">
             <img src="/img/logos/mx-topic.png"/>
             <strong className="title"><Link to="/topicbot">Topic Bot</Link></strong>
         </div>
@@ -74,7 +78,7 @@ const IndexPage = () => (
             <strong className="title"><Link to="/hyperbot">Hyperbot</Link></strong>
         </div>
         <div className="t2-integration">
-            <img src="https://t2bot.io/_matrix/media/v1/thumbnail/t2bot.io/d6b8782ba4cd7d431a5cf7c279d2145f?width=48&height=48&method=crop"/>
+            <img src="https://t2bot.io/_matrix/media/r0/thumbnail/t2bot.io/d6b8782ba4cd7d431a5cf7c279d2145f?width=48&height=48&method=crop"/>
             <strong className="title"><Link to="/dogebot">Doge Bot</Link></strong>
         </div>
 
