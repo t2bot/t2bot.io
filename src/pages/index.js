@@ -85,6 +85,10 @@ const IndexPage = () => (
             <img src="https://t2bot.io/_matrix/media/r0/thumbnail/t2bot.io/b47e9304617ff2bb61496b94f841e854?width=48&height=48&method=crop"/>
             <strong className="title"><Link to="/smilebot">Smile Bot</Link></strong>
         </div>
+        <div className="t2-integration">
+            <img src="https://t2bot.io/_matrix/media/r0/thumbnail/t2bot.io/0c83bc8c78879407dc2c99f8b27ed6b2?width=48&height=48&method=crop"/>
+            <strong className="title"><Link to="/echobot">Echo Bot</Link></strong>
+        </div>
 
         <h3 className="t2-sectionHeader">Other services</h3>
         <p>Not everything t2bot.io runs is a bot or bridge. Here's everything else that may be of interest.</p>
