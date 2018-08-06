@@ -43,7 +43,7 @@ const IndexPage = () => (
         </div>
         <div className="t2-integration">
             <img src="/img/logos/mx-email-bot.png"/>
-            <strong className="title"><Link to="/emailbot">Email Bot</Link></strong>
+            <strong className="title"><Link to="/emailbot">Email Notification Bot</Link></strong>
         </div>
         <div className="t2-integration">
             <img src="/img/logos/mx-alias.png"/>

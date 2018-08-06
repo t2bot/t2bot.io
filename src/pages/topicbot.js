@@ -1,14 +1,20 @@
 import React from "react";
-import Link from "gatsby-link";
+import UserPill from "../layouts/user_pill";
 
 const TopicBotPage = () => (
     <div>
-        <h2>Topic Bot</h2>
-        <p><a href="https://matrix.to/#/@topic:t2bot.io">@topic:t2bot.io</a> has one job: make sure your room's topic is kept up to date. Currently the bot only supports updating the topic based on the number of users in the room, but in the future the bot will support other variables. To get started, invite the bot to your room and send the message <code>!topic help</code></p>
-        <br/>
-        <br/>
-        <br/>
-        <p>To learn more about the bot, or to contribute, please see <a href="https://github.com/turt2live/matrix-topic-bot">turt2live/matrix-topic-bot</a> on Github.</p>
+        <h2 className="t2-pageHeading">Topic Bot</h2>
+        <p className="t2-repoInfo">
+            Github Repository: <a href="https://github.com/turt2live/matrix-topic-bot">turt2live/matrix-topic-bot</a><br/>
+        </p>
+        <p>
+            <UserPill userId="@topic:t2bot.io"/> helps update your room's topic as things change, such as the number of members.
+        </p>
+        <h4>Adding the bot to your room</h4>
+        <ol>
+            <li>Invite <UserPill userId="@topic:t2bot.io"/> to your room</li>
+            <li>Send the message <code>!topic help</code></li>
+        </ol>
     </div>
 );
 

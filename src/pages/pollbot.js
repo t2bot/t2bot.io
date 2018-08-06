@@ -1,15 +1,21 @@
 import React from "react";
 import Link from "gatsby-link";
+import UserPill from "../layouts/user_pill";
 
 const PollBotPage = () => (
     <div>
-        <h2>Pollbot</h2>
-            <div style={{background: '#ffdd2e', padding: '1.1rem', marginBottom: '1rem'}}><strong>The pollbot is beta!</strong> The bot may not work at times, or be slow to respond. Please visit <a href="https://matrix.to/#/#help:t2bot.io">#help:t2bot.io</a> if you run into any issues.</div>
-        <p><a href="https://matrix.to/#/@pollbot:t2bot.io">@pollbot:t2bot.io</a> helps run quick polls/votes in your room. To get started, invite the bot and send the message <code>!newpoll</code>.</p>
-        <br/>
-        <br/>
-        <br/>
-        <p>Pollbot is a third-party bot not maintained by t2bot.io/turt2live. To learn more about the bot, or to contribute, please see <a href="https://github.com/shawnanastasio/matrix-pollbot">shawnanastasio/matrix-pollbot</a> on Github.</p>
+        <h2 className="t2-pageHeading">Pollbot</h2>
+        <p className="t2-repoInfo">
+            Github Repository: <a href="https://github.com/shawnanastasio/matrix-pollbot">shawnanastasio/matrix-pollbot</a> (third party)<br/>
+        </p>
+        <p>
+            <UserPill userId="@pollbot:t2bot.io"/> is a bot that helps run quick polls in your room.
+        </p>
+        <h4>Adding the bot to your room</h4>
+        <ol>
+            <li>Invite <UserPill userId="@pollbot:t2bot.io"/> to your room</li>
+            <li>Get started with <code>!newpoll</code></li>
+        </ol>
     </div>
 );
 
