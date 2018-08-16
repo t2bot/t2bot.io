@@ -26,10 +26,10 @@ const IndexPage = () => (
             <img src="/img/logos/mx-discord.png"/>
             <strong className="title"><Link to="/discord">Discord Bridge</Link></strong>
         </div>
-        <div className="t2-integration">
+        {/* <div className="t2-integration">
             <img src="/img/logos/mx-twitter.png"/>
             <strong className="title"><Link to="/twitter">Twitter Bridge</Link></strong>
-        </div>
+        </div> */}
         <div className="t2-integration">
             <img src="/img/logos/mx-email.png"/>
             <strong className="title"><Link to="/email">Email Bridge</Link></strong>
