@@ -11,30 +11,30 @@ const IndexPage = () => (
 
         <h3 className="t2-sectionHeader">Bridges</h3>
         <p>Bridges allow people on other platforms to interact with matrix users, and vice-versa.</p>
-        <div className="t2-integration">
+        {/*<div className="t2-integration">
             <img src="/img/logos/mx-webhooks.png"/>
             <strong className="title"><Link to="/webhooks">Webhooks Bridge</Link></strong>
         </div>
         <div className="t2-integration">
             <img src="/img/logos/mx-telegram.png"/>
             <strong className="title"><Link to="/telegram">Telegram Bridge</Link></strong>
-        </div>
+        </div>*/}
         <div className="t2-integration">
             <img src="/img/logos/mx-discord.png"/>
             <strong className="title"><Link to="/discord">Discord Bridge</Link></strong>
         </div>
-        <div className="t2-integration">
+        {/*<div className="t2-integration">
             <img src="/img/logos/mx-twitter.png"/>
             <strong className="title"><Link to="/twitter">Twitter Bridge</Link></strong>
         </div>
         <div className="t2-integration">
             <img src="/img/logos/mx-email.png"/>
             <strong className="title"><Link to="/email">Email Bridge</Link></strong>
-        </div>
+        </div>*/}
 
         <h3 className="t2-sectionHeader">Bots</h3>
         <p>Bots provide utility or entertainment to your rooms on matrix. Some of them are just silly as well.</p>
-        <div className="t2-integration">
+        {/*<div className="t2-integration">
             <img src="/img/logos/mx-voyager.png"/>
             <strong className="title"><Link to="/voyager">Matrix Traveler</Link></strong>
         </div>
@@ -61,15 +61,15 @@ const IndexPage = () => (
         <div className="t2-integration">
             <img src="/img/logos/mx-welcomeback.png"/>
             <strong className="title"><Link to="/welcomebackbot">Welcome Back Bot</Link></strong>
-        </div>
+        </div>*/}
         <div className="t2-integration">
             <img src="/img/logos/mx-haiku.png"/>
             <strong className="title"><Link to="/haikubot">Haiku Bot</Link></strong>
         </div>
-        <div className="t2-integration">
+        {/*<div className="t2-integration">
             <img src="/img/logos/mx-hyperbot.png"/>
             <strong className="title"><Link to="/hyperbot">Hyperbot</Link></strong>
-        </div>
+        </div>*/}
 
         <h3 className="t2-sectionHeader">Other services</h3>
         <p>Not everything linuxgaming.life runs is a bot or bridge. Here's everything else that may be of interest.</p>
