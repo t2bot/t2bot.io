@@ -19,7 +19,7 @@ const Header = () => (
                     color: 'white',
                     textDecoration: 'none',
                 }}>
-                    <img src="/img/t2bot-banner.png" style={{margin: 0}} />
+                    <img src="/img/banner.png" style={{margin: 0}} />
                 </Link>
             </h1>
             <div style={{
@@ -36,8 +36,8 @@ const Header = () => (
 const TemplateWrapper = ({children}) => (
     <div>
         <Helmet>
-            <title>t2bot.io</title>
-            <meta name="description" content="Public bridges, bots, and integrations. Visit #help:t2bot.io for more information."/>
+            <title>linuxgaming.life</title>
+            <meta name="description" content="Public bridges, bots, and integrations. Visit #help:linuxgaming.life for more information."/>
             <meta name="keywords" content="matrix, homeserver, bridges, bots, integrations, public"/>
 
             <meta property="og:image" content="/img/t2bot-stacked.png"/>
