@@ -5,9 +5,9 @@ const IndexPage = () => (
     <div>
         <h2>A public bridge, bot, and integration network for <a href="https://matrix.org" target="_BLANK">[matrix]</a>
         </h2>
-        <p>Many of the bridges, bots, and integrations running on t2bot.io are free to use, although <Link to="/donate">donations are greatly appreciated</Link>.</p>
+        <p>Many of the bridges, bots, and integrations running on linuxgaming.life are free to use, although <Link to="/donate">donations are greatly appreciated</Link>.</p>
         <p>If you're unsure of how to set anything up, or have any questions/requests, please visit <a
-            href="https://matrix.to/#/#help:t2bot.io">#help:t2bot.io</a> in matrix.</p>
+            href="https://matrix.to/#/#help:linuxgaming.life">#help:linuxgaming.life</a> in matrix.</p>
 
         <h3 className="t2-sectionHeader">Bridges</h3>
         <p>Bridges allow people on other platforms to interact with matrix users, and vice-versa.</p>
@@ -72,7 +72,7 @@ const IndexPage = () => (
         </div>
 
         <h3 className="t2-sectionHeader">Other services</h3>
-        <p>Not everything t2bot.io runs is a bot or bridge. Here's everything else that may be of interest.</p>
+        <p>Not everything linuxgaming.life runs is a bot or bridge. Here's everything else that may be of interest.</p>
         <div className="t2-integration">
             <img src="/img/logos/mx-dimension.png"/>
             <strong className="title"><Link to="/dimension">Dimension</Link></strong>
