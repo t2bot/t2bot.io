@@ -9,6 +9,13 @@ const IndexPage = () => (
         <p>If you're unsure of how to set anything up, or have any questions/requests, please visit <a
             href="https://matrix.to/#/#help:linuxgaming.life">#help:linuxgaming.life</a> in matrix.</p>
 
+				<h3 className="t2-sectionHeader">Riot</h3>
+				<p>linuxgaming.life hosts its own instance of <a href="https://riot.im">riot</a>, the flagship matrix client. It is served via <Link to="https://ipfs.io">IPFS</Link></p>
+				<Link to="https://riot.linuxgaming.life"><div className="t2-integration">
+					<img src="/img/logos/riot.png" />
+					<strong className="title">Riot</strong>
+				</div></Link>
+
         <h3 className="t2-sectionHeader">Bridges</h3>
         <p>Bridges allow people on other platforms to interact with matrix users, and vice-versa.</p>
         {/*<div className="t2-integration">
@@ -19,10 +26,10 @@ const IndexPage = () => (
             <img src="/img/logos/mx-telegram.png"/>
             <strong className="title"><Link to="/telegram">Telegram Bridge</Link></strong>
         </div>*/}
-        <div className="t2-integration">
+        <Link to="/discord"><div className="t2-integration">
             <img src="/img/logos/mx-discord.png"/>
-            <strong className="title"><Link to="/discord">Discord Bridge</Link></strong>
-        </div>
+            <strong className="title">Discord Bridge</strong>
+        </div></Link>
         {/*<div className="t2-integration">
             <img src="/img/logos/mx-twitter.png"/>
             <strong className="title"><Link to="/twitter">Twitter Bridge</Link></strong>
@@ -32,8 +39,8 @@ const IndexPage = () => (
             <strong className="title"><Link to="/email">Email Bridge</Link></strong>
         </div>*/}
 
-        <h3 className="t2-sectionHeader">Bots</h3>
-        <p>Bots provide utility or entertainment to your rooms on matrix. Some of them are just silly as well.</p>
+        {/*<h3 className="t2-sectionHeader">Bots</h3>
+        <p>Bots provide utility or entertainment to your rooms on matrix. Some of them are just silly as well.</p>*/}
         {/*<div className="t2-integration">
             <img src="/img/logos/mx-voyager.png"/>
             <strong className="title"><Link to="/voyager">Matrix Traveler</Link></strong>
@@ -62,21 +69,21 @@ const IndexPage = () => (
             <img src="/img/logos/mx-welcomeback.png"/>
             <strong className="title"><Link to="/welcomebackbot">Welcome Back Bot</Link></strong>
         </div>*/}
-        <div className="t2-integration">
+        {/*<div className="t2-integration">
             <img src="/img/logos/mx-haiku.png"/>
             <strong className="title"><Link to="/haikubot">Haiku Bot</Link></strong>
-        </div>
+        </div>*/}
         {/*<div className="t2-integration">
             <img src="/img/logos/mx-hyperbot.png"/>
             <strong className="title"><Link to="/hyperbot">Hyperbot</Link></strong>
         </div>*/}
 
-        <h3 className="t2-sectionHeader">Other services</h3>
+        {/*<h3 className="t2-sectionHeader">Other services</h3>
         <p>Not everything linuxgaming.life runs is a bot or bridge. Here's everything else that may be of interest.</p>
         <div className="t2-integration">
             <img src="/img/logos/mx-dimension.png"/>
             <strong className="title"><Link to="/dimension">Dimension</Link></strong>
-        </div>
+        </div>*/}
     </div>
 );
 
