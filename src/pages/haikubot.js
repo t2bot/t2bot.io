@@ -8,11 +8,11 @@ const HaikuBotPage = () => (
             Github Repository: <a href="https://github.com/turt2live/matrix-haiku-bot">turt2live/matrix-haiku-bot</a><br/>
         </p>
         <p>
-            <UserPill userId="@haiku:t2bot.io"/> is a bot that detects haikus and posts them back into the room.
+            <UserPill userId="@haiku:linuxgaming.life"/> is a bot that detects haikus and posts them back into the room.
         </p>
         <h4>Adding the bot to your room</h4>
         <ol>
-            <li>Invite <UserPill userId="@haiku:t2bot.io"/> to your room</li>
+            <li>Invite <UserPill userId="@haiku:linuxgaming.life"/> to your room</li>
             <li>Send a message that fits the haiku format</li>
         </ol>
     </div>
