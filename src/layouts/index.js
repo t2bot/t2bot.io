@@ -19,7 +19,7 @@ const Header = () => (
                     color: 'white',
                     textDecoration: 'none',
                 }}>
-                    <img src="/img/banner.png" style={{margin: 0}} />
+                    <img src="img/banner.png" style={{margin: 0}} />
                 </Link>
             </h1>
             <div style={{
