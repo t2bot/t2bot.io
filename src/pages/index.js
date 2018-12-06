@@ -12,7 +12,7 @@ const IndexPage = () => (
 				<h3 className="t2-sectionHeader">Riot</h3>
 				<p>linuxgaming.life hosts its own instance of <a href="https://riot.im">riot</a>, the flagship matrix client. It is served via <Link to="https://ipfs.io">IPFS</Link></p>
 				<Link to="https://riot.linuxgaming.life"><div className="t2-integration">
-					<img src="/img/logos/riot.png" />
+					<img src="img/logos/riot.png" />
 					<strong className="title">Riot</strong>
 				</div></Link>
 
@@ -27,7 +27,7 @@ const IndexPage = () => (
             <strong className="title"><Link to="/telegram">Telegram Bridge</Link></strong>
         </div>*/}
         <Link to="/discord"><div className="t2-integration">
-            <img src="/img/logos/mx-discord.png"/>
+            <img src="img/logos/mx-discord.png"/>
             <strong className="title">Discord Bridge</strong>
         </div></Link>
         {/*<div className="t2-integration">
