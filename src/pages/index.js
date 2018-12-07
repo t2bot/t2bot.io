@@ -10,11 +10,11 @@ const IndexPage = () => (
             href="https://matrix.to/#/#help:linuxgaming.life">#help:linuxgaming.life</a> in matrix.</p>
 
 				<h3 className="t2-sectionHeader">Riot</h3>
-				<p>linuxgaming.life hosts its own instance of <a href="https://riot.im">riot</a>, the flagship matrix client. It is served via <Link to="https://ipfs.io">IPFS</Link></p>
-				<Link to="https://riot.linuxgaming.life"><div className="t2-integration">
+				<p>linuxgaming.life hosts its own instance of <a href="https://riot.im">riot</a>, the flagship matrix client. It is served via <a href="https://ipfs.io">IPFS</a></p>
+				<a href="https://riot.linuxgaming.life"><div className="t2-integration">
 					<img src="img/logos/riot.png" />
 					<strong className="title">Riot</strong>
-				</div></Link>
+				</div></a>
 
         <h3 className="t2-sectionHeader">Bridges</h3>
         <p>Bridges allow people on other platforms to interact with matrix users, and vice-versa.</p>
@@ -26,10 +26,10 @@ const IndexPage = () => (
             <img src="/img/logos/mx-telegram.png"/>
             <strong className="title"><Link to="/telegram">Telegram Bridge</Link></strong>
         </div>*/}
-        <Link to="/discord"><div className="t2-integration">
+        <a href="discord"><div className="t2-integration">
             <img src="img/logos/mx-discord.png"/>
             <strong className="title">Discord Bridge</strong>
-        </div></Link>
+        </div></a>
         {/*<div className="t2-integration">
             <img src="/img/logos/mx-twitter.png"/>
             <strong className="title"><Link to="/twitter">Twitter Bridge</Link></strong>

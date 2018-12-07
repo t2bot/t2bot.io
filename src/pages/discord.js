@@ -10,7 +10,7 @@ const DiscordPage = () => (
             <li>Open the channel you'd like to bridge in the Discord web application</li>
             <li>
                 Using the following image as a reference, send the message <code>!discord bridge ChannelID/RoomID</code> in your matrix room:
-                <img src="/img/discord-url.png" style={{display: "block"}} />
+                <img src="../img/discord-url.png" style={{display: "block"}} />
             </li>
         </ol>
         <br/>
