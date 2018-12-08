@@ -39,8 +39,24 @@ const IndexPage = () => (
             <strong className="title"><Link to="/email">Email Bridge</Link></strong>
         </div>*/}
 
-        {/*<h3 className="t2-sectionHeader">Bots</h3>
-        <p>Bots provide utility or entertainment to your rooms on matrix. Some of them are just silly as well.</p>*/}
+        <h3 className="t2-sectionHeader">Bots</h3>
+        <p>Bots provide utility or entertainment to your rooms on matrix. Some of them are just silly as well.</p>
+				<a href="dicebot"><div className="t2-integration">
+            <img src="img/logos/dice.png"/>
+            <strong className="title">Dice Bot</strong>
+        </div></a>
+				<a href="sedbot"><div className="t2-integration">
+            <img src="img/logos/sed.png"/>
+            <strong className="title">sed Bot</strong>
+        </div></a>
+				<a href="mediabot"><div className="t2-integration">
+            <img src="img/logos/media.png"/>
+            <strong className="title">Media Bot</strong>
+        </div></a>
+				<a href="rss"><div className="t2-integration">
+					<img src="img/logos/rss.png" />
+					<strong ClassName="title">RSS Bot</strong>
+				</div></a>
         {/*<div className="t2-integration">
             <img src="/img/logos/mx-voyager.png"/>
             <strong className="title"><Link to="/voyager">Matrix Traveler</Link></strong>
