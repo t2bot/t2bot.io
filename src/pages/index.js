@@ -55,7 +55,11 @@ const IndexPage = () => (
         </div></a>
 				<a href="rss"><div className="t2-integration">
 					<img src="img/logos/rss.png" />
-					<strong ClassName="title">RSS Bot</strong>
+					<strong className="title">RSS Bot</strong>
+				</div></a>
+				<a href="echobot"><div className="t2-integration">
+					<img src="img/logos/echo.png" />
+					<strong className="title">Echo Bot</strong>
 				</div></a>
         {/*<div className="t2-integration">
             <img src="/img/logos/mx-voyager.png"/>
