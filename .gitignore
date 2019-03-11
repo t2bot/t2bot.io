@@ -1,6 +1,7 @@
 .idea/
 
 public/
+site/
 
 .cache/
 .DS_Store
@@ -61,4 +62,3 @@ typings/
 
 # dotenv environment variables file
 .env
-

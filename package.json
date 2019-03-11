@@ -1,21 +1,15 @@
 {
   "name": "t2bot.io",
   "description": "t2bot.io website",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Travis Ralston",
   "dependencies": {
-    "axios": "^0.18.0",
-    "gatsby": "^1.9.261",
-    "gatsby-link": "^1.6.44",
-    "gatsby-plugin-react-helmet": "^2.0.11",
-    "react-helmet": "^5.2.0"
+    "cuttlebelle": "^1.0.0-alpha.60"
   },
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": [],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop -p 8181"
+    "build": "cuttlebelle build",
+    "watch": "cuttlebelle watch"
   }
 }
