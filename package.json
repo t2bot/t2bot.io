@@ -9,7 +9,7 @@
   "keywords": [],
   "license": "MIT",
   "scripts": {
-    "build": "cuttlebelle build",
-    "watch": "cuttlebelle watch"
+    "build": "cuttlebelle",
+    "watch": "cuttlebelle -w"
   }
 }

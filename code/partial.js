@@ -7,7 +7,7 @@ import React, { Fragment } from 'react';
  *
  * @disable-docs
  */
-const Partial = ({ _body }) => (
+const Partial = ({ _body, _ID }) => (
 	<Fragment>
 		{ _body }
 	</Fragment>

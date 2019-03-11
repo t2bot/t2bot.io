@@ -8,7 +8,7 @@ import React from 'react';
 const Page = ({ title, stylesheet, header, main, footer, script, _relativeURL, _ID }) => (
 	<html>
 	<head>
-		<title>Cuttlebelle - { title }</title>
+		<title>t2bot.io - { title }</title>
 		<meta charSet="utf-8" />
 		<meta httpEquiv="x-ua-compatible" content="ie=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -21,7 +21,7 @@ const Page = ({ title, stylesheet, header, main, footer, script, _relativeURL, _
 		}
 	</head>
 	<body>
-		<div className="top">
+		<div className={"top page_" + _ID}>
 			<header role="banner">
 				{ header }
 			</header>
