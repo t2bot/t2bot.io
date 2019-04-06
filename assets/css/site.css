@@ -20,10 +20,33 @@ html, body {
 }
 
 header {
-	text-align: center;
 	font-weight: bold;
 	font-size: 2rem;
-	border-bottom: 8px solid #32ccbc;
+	color: #fff;
+	text-align: left;
+	background: linear-gradient(12deg, #29395c, #96316d);
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+header .header-small p {
+	display: inline-block;
+	margin: 0;
+}
+
+header .header-small .header-links {
+	display: inline-block;
+	font-size: 1rem;
+	margin-top: 10px;
+	float: right;
+}
+
+header .header-small .header-links a {
+	margin-left: 20px;
+	color: #fff;
+	text-decoration: none;
 }
 
 main {

@@ -28,13 +28,6 @@ Communicate with the outside world without leaving Matrix
 
 <div class="card">
 
-![webhooks](/assets/img/mx-webhooks.png)
-[Webhooks](/webhooks)
-
-</div>
-
-<div class="card">
-
 ![telegram](/assets/img/mx-telegram.png)
 [Telegram](/telegram)
 
@@ -51,6 +44,13 @@ Communicate with the outside world without leaving Matrix
 
 ![email](/assets/img/mx-email.png)
 [Email](/email)
+
+</div>
+
+<div class="card">
+
+![webhooks](/assets/img/mx-webhooks.png)
+[Webhooks](/webhooks)
 
 </div>
 

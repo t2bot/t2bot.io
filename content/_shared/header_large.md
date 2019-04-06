@@ -4,6 +4,6 @@ A public bridge, bot, and integration network for Matrix
 
 <div class="tagline">
 
-Providing interoperable communications for over 50 thousand people monthly.
+Providing interoperable communications for over 60 thousand people monthly.
 
 </div>
