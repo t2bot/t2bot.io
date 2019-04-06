@@ -50,7 +50,7 @@ Communicate with the outside world without leaving Matrix
 <div class="card">
 
 ![webhooks](/assets/img/mx-webhooks.png)
-[Webhooks](/webhooks)
+[Slack-compatible Webhooks](/webhooks)
 
 </div>
 
