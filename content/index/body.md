@@ -78,7 +78,7 @@ Add utility to your rooms with bots
 <div class="card">
 
 ![email notifications bot](/assets/img/mx-email-bot.png)
-[Email Notifications Bot](/emailbot)
+[Email Notifications](/emailbot)
 
 </div>
 
@@ -93,6 +93,48 @@ Add utility to your rooms with bots
 
 ![trello](/assets/img/mx-trello.png)
 [Trello](/trellobot)
+
+</div>
+
+</div>
+
+</div>
+
+<hr class="spacer" />
+
+<div class="section">
+
+# Services
+
+Try before you self-host, or take a look at how things are going
+
+<div class="cards">
+
+<div class="card">
+
+![dimension](/assets/img/mx-dimension.png)
+[Dimension](https://dimension.t2bot.io)
+
+</div>
+
+<div class="card">
+
+![riot](/assets/img/mx-riot.png)
+[Dimension-Enabled Riot.im](https://riot.t2host.io)
+
+</div>
+
+<div class="card">
+
+![lagbot](/assets/img/mx-lagbot.png)
+[Matrix Network Health](https://lag.t2bot.io)
+
+</div>
+
+<div class="card">
+
+![tagmanager](/assets/img/mx-tag-manager.png)
+[Matrix Room Tag Manager](https://tags.t2bot.io)
 
 </div>
 
