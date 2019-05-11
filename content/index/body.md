@@ -59,3 +59,45 @@ Communicate with the outside world without leaving Matrix
 </div>
 
 <hr class="spacer" />
+
+<div class="section">
+
+# Bots
+
+Add utility to your rooms with bots
+
+<div class="cards">
+
+<div class="card">
+
+![voyager](/assets/img/mx-voyager.png)
+[Matrix Traveler (Voyager)](/voyager)
+
+</div>
+
+<div class="card">
+
+![email notifications bot](/assets/img/mx-email-bot.png)
+[Email Notifications Bot](/emailbot)
+
+</div>
+
+<div class="card">
+
+![gitlab](/assets/img/mx-gitlab.png)
+[Gitlab](/gitlab)
+
+</div>
+
+<div class="card">
+
+![trello](/assets/img/mx-trello.png)
+[Trello](/trellobot)
+
+</div>
+
+</div>
+
+</div>
+
+<hr class="spacer" />
