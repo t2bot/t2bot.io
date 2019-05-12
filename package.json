@@ -2,6 +2,10 @@
   "name": "t2bot.io",
   "description": "t2bot.io website",
   "version": "1.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t2bot/t2bot.io.git"
+  },
   "author": "Travis Ralston",
   "dependencies": {
     "cuttlebelle": "^1.0.0-alpha.60"
