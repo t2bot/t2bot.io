@@ -12,6 +12,23 @@ const Page = ({ title, stylesheet, header, main, footer, script, _relativeURL, _
 		<meta charSet="utf-8" />
 		<meta httpEquiv="x-ua-compatible" content="ie=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta property="og:title" content={
+			title == "Homepage"
+			? "t2bot.io"
+			: `t2bot.io - ${title}`
+		} />
+		<meta property="og:description" content={
+			title == "Homepage" || title.startsWith("Docs")
+			? "Public bridges, bots, and integrations. Visit #help:t2bot.io for more information."
+			: `Learn how to set up t2bot.io's ${title}`
+		} />
+		<meta name="description" content={
+			title == "Homepage" || title.startsWith("Docs")
+			? "Public bridges, bots, and integrations. Visit #help:t2bot.io for more information."
+			: `Learn how to set up t2bot.io's ${title}`
+		} />
+		<meta property="og:image" content="https://www.t2host.io/assets/img/t2bot-stacked.png" />
+
 
 		<link rel="stylesheet" href={ _relativeURL( `/assets/css/site.css`, _ID ) } />
 		{

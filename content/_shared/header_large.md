@@ -1,4 +1,4 @@
-![logo](https://t2bot.io/img/t2bot-banner.png)
+![logo](/assets/img/t2bot-banner.png)
 
 A public bridge, bot, and integration network for Matrix
 
