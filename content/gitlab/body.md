@@ -22,7 +22,7 @@ to configure this bot yourself however for now the following steps apply:
 5. Check off the triggers you'd like to have in your room and click "Add webhook". Although not all are handled, many
    do result in notifications to your room.
 
-To later remvoe the bot from your room, delete the webhook in gitlab.com and kick the bot from the room.
+To later remove the bot from your room, delete the webhook in gitlab.com and kick the bot from the room.
 
 ## Managing your repositories with the bot
 

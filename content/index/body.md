@@ -143,3 +143,87 @@ Try before you self-host, or take a look at how things are going
 </div>
 
 <hr class="spacer" />
+
+<div class="section">
+
+# Other Bots
+
+Not all bots increase productivity
+
+<div class="cards">
+
+<div class="card">
+
+![wbb](/assets/img/mx-welcomeback.png)
+[Welcome Back Bot](/welcomebackbot)
+
+</div>
+
+<div class="card">
+
+![haiku](/assets/img/mx-haiku.png)
+[Haiku Bot](/haikubot)
+
+</div>
+
+<div class="card">
+
+![hyper](/assets/img/mx-hyperbot.png)
+[Hyper Bot](/hyperbot)
+
+</div>
+
+<div class="card">
+
+![doge](/assets/img/mx-doge.png)
+[Doge Bot](/dogebot)
+
+</div>
+
+<div class="card">
+
+![smile](/assets/img/mx-smile.png)
+[Smile Bot](/smilebot)
+
+</div>
+
+<div class="card">
+
+![echo](/assets/img/mx-echo.png)
+[Echo / Ping Bot](/echobot)
+
+</div>
+
+<div class="card">
+
+![media](/assets/img/mx-media.png)
+[Media Bot](/mediabot)
+
+</div>
+
+<div class="card">
+
+![hashtag](/assets/img/mx-hashtag.png)
+[Hashtag Bot](/hashtagbot)
+
+</div>
+
+<div class="card">
+
+![topic](/assets/img/mx-topic.png)
+[Topic Bot](/topicbot)
+
+</div>
+
+<div class="card">
+
+![alias](/assets/img/mx-alias.png)
+[Alias Bot](/aliasbot)
+
+</div>
+
+</div>
+
+</div>
+
+<hr class="spacer" />
