@@ -1,11 +1,14 @@
 # t2bot.io
-Website for [t2bot.io](https://t2bot.io). Requires [Gatsby](https://www.gatsbyjs.org).
+Website for [t2bot.io](https://t2bot.io).
 
-# Developing
+Building/running:
+```bash
+npm install
+npm run watch    # For development
+npm run build    # For production. Outputs to ./site/
+```
 
-1. `gatsby develop`
-
-# Building
-
-1. `gatsby build`
-2. Copy build output to web server
+Docker:
+```
+docker run -it -p 80:80 t2bot/t2bot.io
+```

@@ -1,0 +1,156 @@
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	line-height: 1.1;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+	color: #313131;
+
+	display: grid;
+	min-height: 100%;
+	grid-template-rows: 1fr auto;
+}
+
+html, body {
+	background-color: #e7e7e7;
+}
+
+header {
+	font-weight: bold;
+	font-size: 2rem;
+	color: #fff;
+	text-align: left;
+	background: linear-gradient(12deg, #29395c, #96316d);
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+header .header-small p {
+	display: inline-block;
+	margin: 0;
+}
+
+header .header-small .header-links {
+	display: inline-block;
+	font-size: 1rem;
+	margin-top: 10px;
+	float: right;
+}
+
+header .header-small .header-links a {
+	margin-left: 20px;
+	color: #fff;
+	text-decoration: none;
+}
+
+main {
+	padding: 1rem;
+	width: 75%;
+	max-width: 900px;
+	min-width: 500px;
+	margin: auto;
+}
+
+footer {
+	grid-row-start: 2;
+	grid-row-end: 3;
+	padding: 50px;
+	text-align: center;
+	color: #fff;
+	background: linear-gradient(12deg, #29395c, #96316d);
+	font-size: 0.9em;
+	vertical-align: middle;
+}
+
+footer a {
+	color: #fff;
+	text-decoration: none;
+}
+
+footer img {
+	margin-right: 20px;
+	margin-left: 20px;
+	height: 45px;
+	vertical-align: middle;
+}
+
+.page_index header {
+	/* Counteract the normal header styling */
+	border: none;
+	font-weight: normal;
+
+	color: #fff;
+	text-align: center;
+	background: linear-gradient(12deg, #29395c, #96316d);
+	padding-top: 50px;
+	padding-bottom: 100px;
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 0 calc(100% - 3vw));
+}
+
+.page_index main {
+	margin-top: 70px;
+}
+
+.page_index main .info-box {
+	padding: 50px;
+	padding-top: 20px;
+	border: 1px solid rgba(143, 45, 86, .2);
+	background-color: #fff;
+	box-shadow: 0 20px 40px 20px rgba(206,222,235,.34);
+}
+
+.page_index main .section {
+	text-align: center;
+}
+
+.page_index main .cards {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	text-align: left;
+}
+
+.page_index main .cards .card {
+	width: 350px;
+	background-color: #fff;
+	padding: 20px;
+	margin: 15px;
+	border: 1px solid rgba(143, 45, 86, .2);
+	color: #313131;
+}
+
+.page_index main .cards .card a {
+	color: rgb(0, 0, 238);
+	text-decoration: none;
+}
+
+.page_index main .cards .card img {
+	vertical-align: middle;
+	width: 64px;
+	margin-right: 25px;
+}
+
+.page_index main .cards .card p {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+header .tagline {
+	font-size: 0.6em;
+}
+
+.spacer {
+	width: 85%;
+    display: block;
+    margin-top: 60px;
+	margin-bottom: 60px;
+	border: 0;
+	border-top: 1px solid rgba(206,222,235,.85);
+}
