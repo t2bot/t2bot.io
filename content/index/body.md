@@ -210,6 +210,41 @@ Not all bots increase productivity
 
 <div class="card">
 
+![xkcd](/assets/img/mx-xkcd.png)
+[XKCD Bot](/xkcdbot)
+
+</div>
+
+<div class="card">
+
+![factorial](/assets/img/mx-factorial.png)
+[Factorial Bot](/factorialbot)
+
+</div>
+
+<div class="card">
+
+![dice](/assets/img/mx-dice.png)
+[Dice Bot](/dicebot)
+
+</div>
+
+<div class="card">
+
+![sed](/assets/img/mx-sed.png)
+[sed(1) Bot](/sedbot)
+
+</div>
+
+<div class="card">
+
+![karma](/assets/img/mx-karma.png)
+[Karma Bot](/karmabot)
+
+</div>
+
+<div class="card">
+
 ![topic](/assets/img/mx-topic.png)
 [Topic Bot](/topicbot)
 
