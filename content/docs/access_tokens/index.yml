@@ -1,0 +1,11 @@
+title: Access Tokens
+stylesheet: page
+
+header:
+  - /_shared/header.md
+
+main:
+  - body.md
+
+footer:
+  - /_shared/footer.md
