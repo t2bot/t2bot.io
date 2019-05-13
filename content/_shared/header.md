@@ -1,6 +1,6 @@
 <div class="header-small">
 
-[![logo](https://t2bot.io/img/t2bot-banner.png)](/)
+[![logo](/assets/img/t2bot-banner.png)](/)
 
 <div class="header-links">
 
