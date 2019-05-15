@@ -40,6 +40,20 @@ Communicate with the outside world without leaving Matrix
 
 </div>
 
+<!-- <div class="card">
+
+![hangouts](/assets/img/mx-hangouts.png)
+[Hangouts](/hangouts)
+
+</div> -->
+
+<!-- <div class="card">
+
+![fbmessenger](/assets/img/mx-fbmessenger.png)
+[Facebook Messenger](/messenger)
+
+</div> -->
+
 <div class="card">
 
 ![email](/assets/img/mx-email.png)
