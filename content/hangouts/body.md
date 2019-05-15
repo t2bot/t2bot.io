@@ -24,7 +24,7 @@ This bridge does not have relay support and therefore users must authenticate in
 Group chats cannot be bridged to rooms because Hangouts does not expose the required API to do so.
 
 1. Invite [@hangouts:t2bot.io](https://matrix.to/#/@hangouts:t2bot.io) to a **private chat**.
-2. Say `!hb login`
+2. Say `!hg login`
 3. Click the link the bot gives you and follow the steps.
 3. Shortly after, the bridge should be ready to go. When your contacts message you, the bridge should invite you
    to new rooms.
