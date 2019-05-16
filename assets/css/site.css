@@ -160,3 +160,50 @@ header .tagline {
 	border: 2px solid #7b0000;
 	background-color: #ff9730;
 }
+
+.infrastructure-items {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.infrastructure-item {
+	max-width: 250px;
+	min-width: 200px;
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid #5e00a5;
+	border-top: 5px solid #5e00a5;
+	position: relative;
+	padding-bottom: 50px;
+}
+
+.infrastructure-item > h4 {
+	margin-top: 0;
+}
+
+.infrastructure-metrics {
+	display: flex;
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	right: 10px;
+}
+
+.infrastructure-metric {
+	flex-grow: 1;
+}
+
+.infrastructure-metric-title {
+	font-size: 0.75em;
+	color: #777;
+	display: block;
+	padding: 2px;
+}
+
+.infrastructure-metric-number {
+	color: #222;
+	font-size: 1.5em;
+	display: block;
+}

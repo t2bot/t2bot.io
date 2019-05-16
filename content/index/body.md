@@ -8,7 +8,9 @@
 
 t2bot.io provides bridges, bots, and other Matrix integrations free of charge.
 [Donations](/donations) are greatly appreciated and go directly to helping offset
-the costs of running the service, which is operated by [TravisR](https://matrix.to/#/@travis:t2l.io) in his spare time.
+the costs of running the service, which is operated by [TravisR](https://matrix.to/#/@travis:t2l.io)
+in his spare time. For more information on what sort of hardware t2bot.io runs on,
+see the [Infrastructure Page](/infrastructure).
 
 [#help:t2bot.io](https://matrix.to/#/#help:t2bot.io) is the best place to get help in
 setting anything hosted by t2bot.io up and running in your rooms. For information on
