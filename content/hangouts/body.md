@@ -29,5 +29,4 @@ Group chats cannot be bridged to rooms because Hangouts does not expose the requ
 3. Shortly after, the bridge should be ready to go. When your contacts message you, the bridge should invite you
    to new rooms.
 
-It currently is not possible to log out without manual intervention from the bridge operator - this is to be fixed
-in the future.
+**It currently is not possible to log out**. This is to be fixed in the future.
