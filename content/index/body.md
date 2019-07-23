@@ -58,13 +58,6 @@ Communicate with the outside world without leaving Matrix
 
 <div class="card">
 
-![email](/assets/img/mx-email.png)
-[Email](/email)
-
-</div>
-
-<div class="card">
-
 ![webhooks](/assets/img/mx-webhooks.png)
 [Slack-compatible Webhooks](/webhooks)
 
