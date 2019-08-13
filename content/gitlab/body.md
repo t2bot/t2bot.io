@@ -11,8 +11,7 @@ The source code for the bot is available on [Github](https://github.com/maubot/g
 
 ## Getting notifications in your room
 
-Currently the bot needs to be configured by t2bot.io administrators to reduce spam. In future, it will be possible
-to configure this bot yourself however for now the following steps apply:
+Apply the following steps:
 
 1. Invite [@gitlab:t2bot.io](https://matrix.to/#/@gitlab:t2bot.io) to your room.
 2. Log in to gitlab.com and open your repository's integration settings.
