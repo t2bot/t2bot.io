@@ -17,7 +17,7 @@ function renderItem(i) {
                 </div>
                 <div className='infrastructure-metric'>
                     <span className='infrastructure-metric-number'>{i.storage} GB</span>
-                    <span className='infrastructure-metric-title'>Storage</span>
+                    <span className='infrastructure-metric-title'>SSD Storage</span>
                 </div>
             </div>
         </div>
