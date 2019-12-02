@@ -112,6 +112,13 @@ Add utility to your rooms with bots
 
 </div>
 
+<div class="card">
+
+![pollbot](/assets/img/mx-pollbot.png)
+[Poll Bot](/pollbot)
+
+</div>
+
 </div>
 
 </div>
