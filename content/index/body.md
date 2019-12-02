@@ -105,6 +105,13 @@ Add utility to your rooms with bots
 
 </div>
 
+<div class="card">
+
+![remind](/assets/img/mx-reminder.png)
+[Reminder Bot](/reminderbot)
+
+</div>
+
 </div>
 
 </div>
