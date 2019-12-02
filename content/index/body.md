@@ -157,7 +157,7 @@ Try before you self-host, or take a look at how things are going
 
 # Other Bots
 
-Not all bots increase productivity
+Not all bots increase productivity - here's some to help brighten your day
 
 <div class="cards">
 
@@ -242,6 +242,13 @@ Not all bots increase productivity
 
 ![sed](/assets/img/mx-sed.png)
 [sed(1) Bot](/sedbot)
+
+</div>
+
+<div class="card">
+
+![alot](/assets/img/mx-alot.png)
+[Alot Bot](/alotbot)
 
 </div>
 
