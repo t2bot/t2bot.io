@@ -254,6 +254,13 @@ Not all bots increase productivity - here's some to help brighten your day
 
 <div class="card">
 
+![translate](/assets/img/mx-translate.png)
+[Translate Bot](/translatebot)
+
+</div>
+
+<div class="card">
+
 ![karma](/assets/img/mx-karma.png)
 [Karma Bot](/karmabot)
 
