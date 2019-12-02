@@ -177,6 +177,13 @@ Not all bots increase productivity - here's some to help brighten your day
 
 <div class="card">
 
+![stickers](/assets/img/mx-stickers.png)
+[Stickerpack Bot](/stickerbot)
+
+</div>
+
+<div class="card">
+
 ![wbb](/assets/img/mx-welcomeback.png)
 [Welcome Back Bot](/welcomebackbot)
 
