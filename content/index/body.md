@@ -119,6 +119,13 @@ Add utility to your rooms with bots
 
 </div>
 
+<div class="card">
+
+![rss](/assets/img/mx-rss.png)
+[RSS Bot](/rssbot)
+
+</div>
+
 </div>
 
 </div>
@@ -242,6 +249,27 @@ Not all bots increase productivity - here's some to help brighten your day
 
 ![xkcd](/assets/img/mx-xkcd.png)
 [XKCD Bot](/xkcdbot)
+
+</div>
+
+<div class="card">
+
+![commitstrip](/assets/img/mx-commitstrip.png)
+[CommitStrip Bot](/commitstripbot)
+
+</div>
+
+<div class="card">
+
+![urbandictionary](/assets/img/mx-urbandictionary.png)
+[Urban Dictionary Bot](/urbandictionarybot)
+
+</div>
+
+<div class="card">
+
+![reddit](/assets/img/mx-reddit.png)
+[Reddit Bot](/redditbot)
 
 </div>
 

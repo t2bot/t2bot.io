@@ -8,7 +8,6 @@ Start polls in your room.
 
 The source code is available on [GitHub](https://github.com/babolivier/matrix-poll-bot).
 
-
 ## Using the bot
 
 1. Invite [@pollbot:t2bot.io](https://matrix.to/#/@pollbot:t2bot.io) to your room.
