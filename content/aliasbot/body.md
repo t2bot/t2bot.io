@@ -4,6 +4,12 @@
 
 # Alias Bot
 
+<div class="beta-warning">
+
+**Note**: This bot shouldn't be needed anymore.
+
+</div>
+
 This bot allows you to create aliases on the t2bot.io domain for future reference. In general, this is most
 useful to ensure your room has multiple ways for people to enter in the event the server hosting the primary
 alias goes down.
