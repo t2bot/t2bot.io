@@ -1,11 +1,8 @@
-title: Urban Dictionary Bot
+title: Docs - Information about the matrix.org lag from t2bot.io
 stylesheet: page
 
 header:
   - /_shared/header.md
-
-banners:
-  - /_shared/lag_warning.md
 
 main:
   - body.md
