@@ -2,6 +2,11 @@ import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 
 function renderItem(i) {
+    if (i.storage > 9000) {
+        i.storage = `${i.storage / 1000} TB`;
+    } else {
+        i.storage = `${i.storage} GB`;
+    }
     return (
         <div className='infrastructure-item' key={i}>
             <h4>{i.name}</h4>
@@ -16,8 +21,8 @@ function renderItem(i) {
                     <span className='infrastructure-metric-title'>Memory</span>
                 </div>
                 <div className='infrastructure-metric'>
-                    <span className='infrastructure-metric-number'>{i.storage} GB</span>
-                    <span className='infrastructure-metric-title'>SSD Storage</span>
+                    <span className='infrastructure-metric-number'>{i.storage}</span>
+                    <span className='infrastructure-metric-title'>{i.storageType} Storage</span>
                 </div>
             </div>
         </div>
