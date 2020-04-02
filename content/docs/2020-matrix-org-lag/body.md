@@ -9,7 +9,7 @@ you send to other people. One of those servers is t2bot.io, and another is matri
 even [host your own](https://matrix.org/docs/guides/installing-synapse). As of writing, matrix.org and t2bot.io are the
 two largest deployments by traffic in the world, which causes some problems.
 
-## Why isn't t2bot.io responding to my messages / Why can't I see messages posted in Discord or Telegram?
+## Why isn't the bot joining my room / Why isn't the bot responding / Why are Telegram or Discord messages missing in my room?
 
 If your account ends with `:matrix.org` (for example, `@alice:matrix.org`) then you're on the largest single server in
 the world. Currently t2bot.io is unable to send messages to matrix.org in a timely fashion, which means you won't see
