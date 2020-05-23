@@ -8,14 +8,12 @@
   },
   "author": "Travis Ralston",
   "dependencies": {
-    "clean-css-cli": "^4.3.0",
     "cuttlebelle": "^1.0.0-alpha.69"
   },
   "keywords": [],
   "license": "MIT",
   "scripts": {
-    "build": "cuttlebelle && npm run build:css",
-    "watch": "cuttlebelle -w",
-    "build:css": "cleancss --inline remote -o site/assets/css/site.css assets/css/site.css"
+    "build": "cuttlebelle",
+    "watch": "cuttlebelle -w"
   }
 }

@@ -1,72 +1,10 @@
 title: Homepage
 
 header:
-  - /_shared/header.md
-  - /_shared/hero.md
+  - /_shared/header_large.md
 
 main:
-  # BRIDGES
-  - section/bridges.md
-  - _feature-start.md
-  - integration/telegram.md
-  - integration/discord.md
-  - _feature-end.md
-
-  - _spacer.md
-
-  # CONNECTED BOTS
-  - section/bots-connected.md
-  - _feature-start.md
-  - integration/gitlab.md
-  - integration/trello.md
-  - integration/rss.md
-  - integration/email-notifications.md
-  - _feature-end.md
-
-  - _spacer.md
-
-  # INFORMATIVE BOTS
-  - section/bots-informed.md
-  - _feature-start.md
-  - integration/poll-bot.md
-  - integration/reminder-bot.md
-  - integration/voyager.md
-  - integration/monitor-bot.md
-  - _feature-end.md
-
-  - _spacer.md
-
-  # CUSTOMIZATION
-  - section/customization.md
-  - _feature-start.md
-  - integration/dimension.md
-  - integration/tag-manager.md
-  - _feature-end.md
-
-  - _spacer.md
-
-  # FUN
-  - section/fun.md
-  - _feature-start.md
-  - integration/welcome-back-bot.md
-  - integration/haiku-bot.md
-  - integration/hyper-bot.md
-  - integration/smile-bot.md
-  - integration/sticker-bot.md
-  - integration/hashtag-bot.md
-  - integration/xkcd-bot.md
-  - integration/commitstrip-bot.md
-  - integration/urbandictionary-bot.md
-  - integration/reddit-bot.md
-  - integration/factorial-bot.md
-  - integration/dice-bot.md
-  - integration/sed-bot.md
-  - integration/alot-bot.md
-  - integration/translate-bot.md
-  - integration/karma-bot.md
-  - integration/media-bot.md
-  - integration/echo-bot.md
-  - _feature-end.md
+  - body.md
 
 footer:
   - /_shared/footer.md

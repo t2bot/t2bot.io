@@ -1,27 +1,3 @@
-<div class="footer-flex">
-
-<div class="footer-column">
-
-#### Quick Links
-
-* [status.t2bot.io](https://status.t2bot.io)
-* [#help:t2bot.io](https://matrix.to/#/#help:t2bot.io)
-
-</div>
-
-<div class="footer-column">
-
-#### Learn more
-
-* [Donations](/donations)
-* [Infrastructure](/infrastructure)
-
-</div>
-
-<div class="footer-column made-for-matrix">
-
+[status.t2bot.io](https://status.t2bot.io)
 [![matrix.org](/assets/img/made-for-matrix.svg)](https://matrix.org)
-
-</div>
-
-</div>
+[#help:t2bot.io](https://matrix.to/#/#help:t2bot.io)
