@@ -1,5 +1,4 @@
 import React, { Fragment } from 'react';
-import PropTypes from 'prop-types';
 
 function renderItem(i) {
     if (i.storage > 9000) {
