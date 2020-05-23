@@ -1,0 +1,22 @@
+.banners {
+	max-width: 1002px;
+	min-width: 500px;
+	margin: auto;
+}
+
+.banners .banner {
+	margin: 20px auto auto;
+}
+
+.banner {
+	border: 1px solid rgba(143, 45, 86, .2);
+	background-color: #fff;
+	box-shadow: 0 20px 40px 20px rgba(206,222,235,.34);
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.banner.warning {
+	background-color: #ffeda9;
+    border-color: #f99700;
+}

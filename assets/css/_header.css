@@ -1,0 +1,42 @@
+header {
+	font-weight: bold;
+	font-size: 2rem;
+	color: #fff;
+	text-align: left;
+	background: linear-gradient(12deg, var(--brand-color), var(--brand-color-alt));
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+header p {
+	display: inline-block;
+	margin: 0;
+}
+
+header .header-links {
+	display: inline-block;
+	font-size: 1rem;
+	margin-top: 10px;
+	float: right;
+}
+
+header .header-links a {
+	margin-left: 20px;
+	color: #fff;
+	text-decoration: none;
+}
+
+header .hero {
+    font-weight: 500;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+header .hero .tag {
+    font-size: 1.2rem;
+    padding-top: 1rem;
+}
