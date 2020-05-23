@@ -16,6 +16,6 @@
   "scripts": {
     "build": "cuttlebelle && npm run build:css",
     "watch": "cuttlebelle -w",
-    "build:css": "cleancss --inline remote -o site/assets/css/site.css assets/css/site.css"
+    "build:css": "cleancss --inline all -o site/assets/css/site.css assets/css/site.css"
   }
 }
