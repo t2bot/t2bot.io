@@ -8,6 +8,9 @@ npm run watch    # For development
 npm run build    # For production. Outputs to ./site/
 ```
 
+Windows users: it is recommended to use WSL with the watcher as cuttlebelle currently does not
+properly work with Windows directly.
+
 Docker:
 ```
 docker run -it -p 80:80 t2bot/t2bot.io
