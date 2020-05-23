@@ -24,7 +24,7 @@ header {
 	font-size: 2rem;
 	color: #fff;
 	text-align: left;
-	background: linear-gradient(12deg, #29395c, #96316d);
+	background: linear-gradient(12deg, #29395c, #7241a9);
 	padding-top: 15px;
 	padding-bottom: 15px;
 	padding-left: 30px;
@@ -86,7 +86,7 @@ footer {
 	padding: 50px;
 	text-align: center;
 	color: #fff;
-	background: linear-gradient(12deg, #29395c, #96316d);
+	background: linear-gradient(12deg, #29395c, #7241a9);
 	font-size: 0.9em;
 	vertical-align: middle;
 }
@@ -110,7 +110,7 @@ footer img {
 
 	color: #fff;
 	text-align: center;
-	background: linear-gradient(12deg, #29395c, #96316d);
+	background: linear-gradient(12deg, #29395c, #7241a9);
 	padding-top: 50px;
 	padding-bottom: 100px;
 	clip-path: polygon(0 0, 100% 0, 100% 100%, 0 calc(100% - 3vw));
