@@ -1,13 +1,19 @@
 main {
     text-align: left;
-    margin: 20px auto auto;
-    margin-bottom: 20px;
-    padding: 50px;
-	border: 1px solid rgba(143, 45, 86, .2);
-	background-color: #fff;
-    box-shadow: 0 20px 40px 20px rgba(206,222,235,.34);
+    width: 100%;
+    max-width: 800px;
+    margin-top: 15px;
+    line-height: 1.8em;
 }
 
 main h1:first-child {
     margin-top: 0;
+}
+
+
+video {
+    width: 100%;
+    max-width: 700px;
+    border-radius: 4px;
+    border: 1px solid #000;
 }

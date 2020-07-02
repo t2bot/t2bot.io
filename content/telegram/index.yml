@@ -3,12 +3,14 @@ stylesheet: page
 
 header:
   - /_shared/header.md
+  - hero.md
 
 banners:
   - /_shared/lag_warning.md
 
 main:
   - body.md
+  - /_shared/video/telegram-setup.md
 
 footer:
   - /_shared/footer.md

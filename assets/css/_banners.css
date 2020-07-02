@@ -1,22 +1,16 @@
 .banners {
-	max-width: 1002px;
-	min-width: 500px;
-	margin: auto;
+	width: 100%;
 }
 
 .banners .banner {
-	margin: 20px auto auto;
+	padding: 15px;
 }
 
-.banner {
-	border: 1px solid rgba(143, 45, 86, .2);
-	background-color: #fff;
-	box-shadow: 0 20px 40px 20px rgba(206,222,235,.34);
-	padding-left: 15px;
-	padding-right: 15px;
+.banners p {
+	margin: 0;
+	text-align: center;
 }
 
-.banner.warning {
-	background-color: #ffeda9;
-    border-color: #f99700;
+.banners .banner.warning {
+	background-color: #ffd26d;
 }

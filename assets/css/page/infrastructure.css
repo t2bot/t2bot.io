@@ -3,6 +3,9 @@
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: center;
+	width: 150%;
+	max-width: 1000px;
+	margin-left: calc(10% * -1);
 }
 
 .infrastructure-item {
