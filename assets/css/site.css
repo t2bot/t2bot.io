@@ -7,6 +7,7 @@
 @import url("_header.css");
 @import url("_warnings.css");
 @import url("page/infrastructure.css");
+@import url("page/lag-warning.css");
 @import url("elements/featured-integration.css");
 
 html {

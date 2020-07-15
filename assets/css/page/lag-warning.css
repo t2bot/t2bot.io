@@ -1,0 +1,13 @@
+.homeservers {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.homeserver {
+    width: 250px;
+    padding: 8px;
+    border: 1px solid var(--button-bg-color);
+    border-radius: 4px;
+    margin: 0 8px;
+}
