@@ -17,7 +17,7 @@ Currently the bot needs to be configured by t2bot.io administrators to reduce sp
 to configure this bot yourself however for now the following steps apply:
 
 1. Invite [@email:t2bot.io](https://matrix.to/#/@email:t2bot.io) to the room you want to receive notifications in.
-2. Get your room's internal ID. In Riot, this can be done by going to the room settings then the "Advanced" tab.
+2. Get your room's internal ID. In Element, this can be done by going to the room settings then the "Advanced" tab.
 3. Start a private chat with [@travis:t2l.io](https://matrix.to/#/@travis:t2l.io) and say you'd like to set up the
    email notifications bot. Please be patient as your request is going to be handled by a human.
 4. Some follow up questions may be asked, such as who should be allowed to trigger the bot. After configuration,

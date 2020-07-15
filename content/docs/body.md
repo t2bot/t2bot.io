@@ -6,4 +6,4 @@
 
 t2bot.io provides some documentation for common operations in the Matrix ecosystem.
 
-* [Getting your access token from Riot.im](/docs/access_tokens)
+* [Getting your access token from Element](/docs/access_tokens)

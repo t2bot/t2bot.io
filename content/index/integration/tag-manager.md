@@ -5,4 +5,4 @@ icon: mx-tag-manager.png
 target: https://tags.t2bot.io
 ---
 
-Organize your rooms in Riot to help you stay productive.
+Organize your rooms in Element to help you stay productive.
