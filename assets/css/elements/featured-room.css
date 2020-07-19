@@ -1,0 +1,25 @@
+.featured-room {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 16px;
+}
+
+.featured-room img {
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+}
+
+.featured-room > div > a {
+    font-size: 26px;
+}
+
+.featured-room > div p {
+    padding: 0;
+    margin: 0;
+}
+
+.featured-room > div {
+    margin-left: 12px;
+}

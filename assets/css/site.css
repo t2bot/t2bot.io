@@ -10,6 +10,7 @@
 @import url("page/lag-warning.css");
 @import url("page/errors.css");
 @import url("elements/featured-integration.css");
+@import url("elements/featured-room.css");
 
 html {
 	height: 100%;

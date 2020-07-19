@@ -1,0 +1,26 @@
+title: Room Directory
+stylesheet: page
+
+header:
+  - /_shared/header.md
+
+main:
+  - body.md
+
+  - room/help.md
+  - room/status.md
+  - room/news.md
+
+  - _spacer.md
+
+  - room/dimension.md
+  - room/bot-sdk.md
+  - room/media-repo.md
+
+  - _spacer.md
+
+  - more.md
+
+
+footer:
+  - /_shared/footer.md
