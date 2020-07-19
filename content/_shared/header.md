@@ -2,7 +2,7 @@
 
 <div class="header-links">
 
-[public rooms](/docs/directory)
+[#news:t2bot.io](https://matrix.to/#/#news:t2bot.io)
 [status.t2bot.io](https://status.t2bot.io)
 [#help:t2bot.io](https://matrix.to/#/#help:t2bot.io)
 
