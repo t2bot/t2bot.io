@@ -1,13 +1,11 @@
-title: Docs - Donations
+title: Docs - July 2020 Financial Summary
 stylesheet: page
 
 header:
   - /_shared/header.md
-  - hero.md
 
 main:
   - body.md
-  - ../docs/financials/2020-07/body.md
 
 footer:
   - /_shared/footer.md

@@ -1,0 +1,33 @@
+table.financials {
+	width: 100%;
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+table.financials tr td {
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+table.financials tr td a {
+	padding-left: 8px;
+	font-size: 13px;
+}
+
+table.financials tr td.indent {
+	padding-left: 32px;
+}
+
+table.financials tr td:nth-child(n + 2) {
+	text-align: right;
+	width: 90px;
+}
+
+table.financials .total td {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+table.financials tr:first-child td {
+	border-top: 1px solid black;
+}

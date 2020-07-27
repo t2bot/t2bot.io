@@ -1,4 +1,4 @@
-title: Docs - Donations
+title: Docs - Financials
 stylesheet: page
 
 header:
@@ -7,7 +7,6 @@ header:
 
 main:
   - body.md
-  - ../docs/financials/2020-07/body.md
 
 footer:
   - /_shared/footer.md
