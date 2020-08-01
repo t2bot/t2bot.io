@@ -2,6 +2,14 @@ import PropTypes from 'prop-types';
 import React from 'react';
 
 
+function isInstructional(title) {
+	if (title === "Homepage" || title.startsWith("Docs") || title.startsWith("Blog")) {
+		return false;
+	}
+
+	return true;
+}
+
 /**
  * The page layout component
  */
@@ -18,12 +26,12 @@ const Page = ({ title, stylesheet, header, banners, main, footer, script, _relat
 			: `t2bot.io - ${title}`
 		} />
 		<meta property="og:description" content={
-			title == "Homepage" || title.startsWith("Docs")
+			!isInstructional(title)
 			? "Public bridges, bots, and integrations. Visit #help:t2bot.io for more information."
 			: `Learn how to set up t2bot.io's ${title}`
 		} />
 		<meta name="description" content={
-			title == "Homepage" || title.startsWith("Docs")
+			!isInstructional(title)
 			? "Public bridges, bots, and integrations. Visit #help:t2bot.io for more information."
 			: `Learn how to set up t2bot.io's ${title}`
 		} />
