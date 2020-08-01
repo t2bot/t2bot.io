@@ -34,6 +34,19 @@
             <td>$ 11.25</td>
         </tr>
         <tr>
+            <td colspan="3">CI/CD</td>
+        </tr>
+        <tr>
+            <td class="indent">Buildkite</td>
+            <td>N/A</td>
+            <td>$ 20.09</td>
+        </tr>
+        <tr>
+            <td class="indent">Buildkite agents</td>
+            <td>N/A</td>
+            <td>$ TBD</td>
+        </tr>
+        <tr>
             <td colspan="3">Infrastructure <a href="/infrastructure">(find out what this includes)</a></td>
         </tr>
         <tr>
@@ -49,12 +62,12 @@
         <tr>
             <td class="indent">Integrations & montitoring</td>
             <td>$ 235.16</td>
-            <td>$ TBD</td>
+            <td>$ 231.64</td>
         </tr>
         <tr>
             <td class="indent">Media repository</td>
             <td>$ 201.90</td>
-            <td>$ TBD</td>
+            <td>$ 208.41</td>
         </tr>
         <tr class="total">
             <td>Total expenses</td>
