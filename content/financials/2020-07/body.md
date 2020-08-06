@@ -18,12 +18,12 @@
         <tr>
             <td>Out-of-pocket donation from owners & operators</td>
             <td>$ 967.08</td>
-            <td>$ 934.74</td>
+            <td>$ 935.01</td>
         </tr>
         <tr class="total">
             <td>Gross income</td>
             <td>$ 978.15</td>
-            <td>$ 946.41</td>
+            <td>$ 946.68</td>
         </tr>
         <tr>
             <td colspan="3"><b>EXPENSES</b></td>
@@ -44,7 +44,7 @@
         <tr>
             <td class="indent">Buildkite agents</td>
             <td>N/A</td>
-            <td>$ TBD<!-- NOT COUNTED --></td>
+            <td>$ 0.27</td>
         </tr>
         <tr>
             <td colspan="3">Infrastructure <a href="/infrastructure">(find out what this includes)</a></td>
@@ -72,7 +72,7 @@
         <tr class="total">
             <td>Total expenses</td>
             <td>$ 978.15</td>
-            <td>$ 946.41</td>
+            <td>$ 946.68</td>
         </tr>
         <tr class="total">
             <td><b>NET INCOME (OPERATING SURPLUS)</b></td>
