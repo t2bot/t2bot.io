@@ -5,7 +5,7 @@ header:
   - /_shared/header.md
 
 banners:
-  - /_shared/lag_warning.md
+  # - /_shared/lag_warning.md
 
 main:
   - body.md

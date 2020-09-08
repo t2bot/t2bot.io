@@ -4,6 +4,17 @@
 
 # t2bot.io's federation problems with matrix.org
 
+<div class="banners">
+
+<div class="banner warning">
+
+**Note**: As of September 8th, 2020 the situation described here no longer applies. matrix.org has
+caught up on traffic from t2bot.io, though some periods of latency are still expected.
+
+</div>
+
+</div>
+
 Matrix is a decentralized and federated protocol, which means several servers all try to talk to
 each other to ensure that they all have an equal copy of a conversation. One of those servers is
 t2bot.io, and another is matrix.org. There are many more and you can even [host your own](https://matrix.org/docs/guides/installing-synapse).

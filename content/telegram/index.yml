@@ -6,7 +6,7 @@ header:
   - hero.md
 
 banners:
-  - /_shared/lag_warning.md
+  # - /_shared/lag_warning.md
 
 main:
   - body.md
