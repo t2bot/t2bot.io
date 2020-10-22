@@ -63,7 +63,6 @@ main:
   - integration/sed-bot.md
   - integration/alot-bot.md
   - integration/translate-bot.md
-  - integration/karma-bot.md
   - integration/media-bot.md
   - integration/echo-bot.md
   - _feature-end.md

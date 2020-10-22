@@ -4,17 +4,10 @@
 
 # Karma Bot
 
-Tracks how popular particular users are, as voted by their peers.
+<div class="discontinued-warning">
 
-This bot is powered by [maubot (Github)](https://github.com/maubot/maubot) through the [karma plugin (Github)](https://github.com/maubot/karma).
+**This bot has been discontinued**. The bot has served its purpose and is no longer
+needed. It should have already left all rooms, but if that is not the case then please
+contact us in [#help:t2bot.io](https://matrix.to/#/#help:t2bot.io).
 
-
-## Using the bot
-
-1. Invite [@karma:t2bot.io](https://matrix.to/#/@karma:t2bot.io) to your room.
-2. Send a message.
-3. Have someone else reply to that message with `++`
-4. See your standing with `!karma top`
-
-**Note**: This bot is not limited to just your room. Please be responsible when using it, and do not include it in your conversation if you do not
-want your name in other rooms.
+</div>
