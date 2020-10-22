@@ -16,7 +16,3 @@ repository.
 [![Get $100 in free DigitalOcean credits](/assets/img/digitalocean.png)](https://m.do.co/c/d2b21b8d9270)
 
 </div>
-
-For an idea of what it takes to run t2bot.io, here's a recent financial summary:
-
-<!-- Included by index.yml -->

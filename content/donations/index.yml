@@ -7,7 +7,6 @@ header:
 
 main:
   - body.md
-  - ../financials/2020-07/body.md
 
 footer:
   - /_shared/footer.md
