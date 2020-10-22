@@ -1,9 +1,8 @@
-title: Docs - Financials
+title: Blog - June 22nd, 2020
 stylesheet: page
 
 header:
   - /_shared/header.md
-  - hero.md
 
 main:
   - body.md

@@ -1,8 +1,9 @@
-title: Docs - July 2020 Financial Summary
+title: Blog - June 2020 Database Outage
 stylesheet: page
 
 header:
   - /_shared/header.md
+  - hero.md
 
 main:
   - body.md
