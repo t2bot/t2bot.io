@@ -22,27 +22,26 @@ them out before November 28th.
 Not all bots and bridges on t2bot.io will support encryption out of the gate for various
 reasons, however the few that will are:
 
-* [Gitlab Notifications](https://t2bot.io/gitlab)
-* [Trello](https://t2bot.io/trellobot)
-* [RSS Notifications](https://t2bot.io/rssbot)
-* [Pollbot](https://t2bot.io/pollbot)
-* [Reminders](https://t2bot.io/reminderbot)
-* [Welcome Back Bot](https://t2bot.io/welcomebackbot)
-* [Haiku Bot](https://t2bot.io/haikubot)
-* [Hyper Bot](https://t2bot.io/hyperbot)
-* [Smile Bot](https://t2bot.io/smilebot)
-* [Hashtag Bot](https://t2bot.io/hashtagbot)
-* [Urban Dictionary](https://t2bot.io/urbandictionarybot)
-* [Reddit Corrections](https://t2bot.io/redditbot)
-* [Factorial Bot](https://t2bot.io/factorialbot)
-* [Dice Bot](https://t2bot.io/dicebot)
-* [sed(1)](https://t2bot.io/sedbot)
-* [Alot Bot](https://t2bot.io/alotbot)
-* [Translate Bot](https://t2bot.io/translatebot)
-* [Echo Bot](https://t2bot.io/echobot)
+* [Gitlab Notifications](/gitlab)
+* [Trello](/trellobot)
+* [RSS Notifications](/rssbot)
+* [Pollbot](/pollbot)
+* [Reminders](/reminderbot)
+* [Welcome Back Bot](/welcomebackbot)
+* [Haiku Bot](/haikubot)
+* [Hyper Bot](/hyperbot)
+* [Smile Bot](/smilebot)
+* [Hashtag Bot](/hashtagbot)
+* [Urban Dictionary](/urbandictionarybot)
+* [Reddit Corrections](/redditbot)
+* [Factorial Bot](/factorialbot)
+* [Dice Bot](/dicebot)
+* [sed(1)](/sedbot)
+* [Translate Bot](/translatebot)
+* [Echo Bot](/echobot)
 
-Most notably, [Voyager](https://t2bot.io/voyager), the [Discord](https://t2bot.io/discord)
-and [Telegram](https://t2bot.io/telegram) bridges, and several other integrations are
+Most notably, [Voyager](/voyager), the [Discord](/discord)
+and [Telegram](/telegram) bridges, and several other integrations are
 not listed here. Voyager isn’t included because the bot needs further updates to handle
 the private data contained in encrypted rooms. The bridges are excluded because they
 aren’t able to handle the traffic at the scale needed by t2bot.io - improvements are
