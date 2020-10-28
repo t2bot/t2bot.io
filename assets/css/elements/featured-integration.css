@@ -33,17 +33,3 @@
 .featured-integration .description {
     margin-bottom: 40px;
 }
-
-.featured-integration a {
-    background-color: var(--button-bg-color);
-    color: var(--button-fg-color);
-    text-decoration: none;
-    border-radius: 3px;
-    padding: 10px 20px 10px 20px;
-
-    transition: background-color 0.2s;
-}
-
-.featured-integration a:hover {
-    background-color: var(--button-bg-hover-color);
-}

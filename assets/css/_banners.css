@@ -14,3 +14,16 @@
 .banners .banner.warning {
 	background-color: #ffd26d;
 }
+
+.banners .banner.info {
+	background-color: #92e0ff;
+}
+
+.banners .encryption-banner > p {
+	height: 40px;
+	line-height: 40px;
+}
+
+.banners .encryption-banner a {
+    margin-left: 16px;
+}
