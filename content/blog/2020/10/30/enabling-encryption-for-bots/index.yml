@@ -1,8 +1,9 @@
-title: Docs - July 2020 Financial Summary
+title: Blog - Enabling encryption for bots on t2bot.io
 stylesheet: page
 
 header:
   - /_shared/header.md
+  - hero.md
 
 main:
   - body.md

@@ -4,6 +4,8 @@
 
 # June 2020 database outage post-mortem
 
+<small><i>June 22nd, 2020 by TravisR</i></small>
+
 Hi all,
 
 On June 17th, 2020 at approximately 18:00 UTC t2bot.io went down for a critical and major infrastructure failure, resulting in a 5 day

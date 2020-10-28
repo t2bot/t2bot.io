@@ -6,6 +6,7 @@ header:
 
 banners:
   # - /_shared/lag_warning.md
+  - /_shared/encryption-soon.md
 
 main:
   - body.md
