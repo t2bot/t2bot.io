@@ -5,6 +5,9 @@ header:
   - /_shared/hero.md
 
 main:
+  # BANNERS
+  - banner/encryption-available.md
+
   # BRIDGES
   - section/bridges.md
   - _feature-start.md

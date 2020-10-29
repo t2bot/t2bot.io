@@ -1,0 +1,22 @@
+.page_index main .banner.promo {
+    border-radius: 6px;
+    padding: 30px;
+    text-align: left;
+    margin: 0;
+    margin-bottom: 60px;
+    box-shadow: 0 0 20px 2px #e0e0e0;
+}
+
+.page_index main .banner.promo img {
+    width: 120px;
+    border-radius: 20px;
+    vertical-align: middle;
+
+}
+
+.page_index main .banner.promo .promo-content {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: calc(100% - 150px);
+    margin-left: 20px;
+}

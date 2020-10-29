@@ -6,6 +6,7 @@
 @import url("_footer.css");
 @import url("_header.css");
 @import url("_warnings.css");
+@import url("page/home.css");
 @import url("page/infrastructure.css");
 @import url("page/lag-warning.css");
 @import url("page/errors.css");
