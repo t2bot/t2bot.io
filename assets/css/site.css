@@ -60,5 +60,10 @@ main {
 }
 
 a {
+	color: #00b0ff;
 	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: #007db5;
 }
