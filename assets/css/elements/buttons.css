@@ -12,4 +12,10 @@
 .featured-integration a:hover,
 .banners .encryption-banner a:hover {
     background-color: var(--button-bg-hover-color);
+    color: var(--button-fg-color);
+}
+
+.featured-integration a:active,
+.banners .encryption-banner a:active {
+    color: var(--button-fg-color);
 }
