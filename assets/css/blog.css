@@ -1,0 +1,9 @@
+img.blog-header {
+    height: 200px;
+}
+
+@media only screen and (max-width: 768px) {
+    img.blog-header {
+        height: 100px;
+    }
+}

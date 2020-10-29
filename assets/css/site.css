@@ -6,6 +6,7 @@
 @import url("_footer.css");
 @import url("_header.css");
 @import url("_warnings.css");
+@import url("blog.css");
 @import url("page/home.css");
 @import url("page/infrastructure.css");
 @import url("page/lag-warning.css");
@@ -41,7 +42,7 @@ main {
 	padding: 1rem;
 	width: 75%;
 	max-width: 900px;
-	min-width: 500px;
+	min-width: 300px;
 	margin: auto;
 	margin-top: 50px;
 	margin-bottom: 50px;

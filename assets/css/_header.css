@@ -22,6 +22,25 @@ header .header-links {
 	float: right;
 }
 
+@media only screen and (max-width: 768px) {
+	header p {
+		display: block;
+		text-align: center;
+	}
+
+	header .header-links {
+		float: none;
+		display: block;
+		text-align: center;
+	}
+
+	header .header-links a {
+		display: inline-block;
+		margin-bottom: 16px;
+		font-size: 1.1rem;
+	}
+}
+
 header .header-links a {
 	margin-left: 20px;
 	color: #fff;

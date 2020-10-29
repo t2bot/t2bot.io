@@ -65,7 +65,7 @@ const Page = ({ title, stylesheet, header, banners, main, footer, script, _relat
 		}
 	</head>
 	<body>
-		<div className={"top page_" + _ID}>
+		<div className={"top pagebody page_" + _ID}>
 			<header role="banner">
 				{ header }
 			</header>

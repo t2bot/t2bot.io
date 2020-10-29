@@ -10,6 +10,17 @@ main h1:first-child {
     margin-top: 0;
 }
 
+@media only screen and (max-width: 768px) {
+    body > div.pagebody {
+        min-width: 100%;
+        max-width: 100%;
+        overflow: hidden;
+    }
+
+    main {
+        width: calc(100% - 30px);
+    }
+}
 
 video {
     width: 100%;
