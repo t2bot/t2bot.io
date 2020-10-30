@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 
 function renderItem(i) {
-    if (i.storage > 9000) {
+    if (i.storage > 1000) {
         i.storage = `${i.storage / 1000} TB`;
     } else {
         i.storage = `${i.storage} GB`;
