@@ -1,5 +1,5 @@
-<div class="hero hero-sm">
+---
+layout: hero-sm
+---
 
 Donations
-
-</div>
