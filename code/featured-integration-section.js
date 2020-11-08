@@ -4,8 +4,8 @@ const FeaturedIntegrationSection = ({ _ID, _relativeURL, _body, integrations, sp
   <Fragment>
     {_body}
     <div className="featured">
-        {integrations.map(i => (
-            <div className='featured-integration'>
+        {integrations.map((i, i2) => (
+            <div className='featured-integration' key={i2}>
                 <img src={_relativeURL( `/assets/img/${i.icon}`, _ID )} title={i.name} />
                 <span>{i.name}</span>
                 <div className='description'>
