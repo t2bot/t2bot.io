@@ -15,7 +15,7 @@ const FeaturedIntegrationSection = ({ _ID, _relativeURL, _body, integrations, sp
             </div>
         ))}
     </div>
-    {spacer ? <div class="spacer">&nbsp;</div> : null}
+    {spacer ? <div className="spacer">&nbsp;</div> : null}
   </Fragment>
 );
 
