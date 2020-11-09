@@ -2,4 +2,4 @@
 layout: hero-sm
 ---
 
-Privacy Notice
+Copyright Notice
