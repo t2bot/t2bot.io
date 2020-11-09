@@ -77,7 +77,7 @@ Terms and Conditions and processing that is necessary to comply with our legal
 obligations. Where consent is required by law in relation to certain processing, we will
 ask for your consent.
 
-We process your information for the purposes of prociding our dentralized,
+We process your information for the purposes of providing our decentralized,
 openly-federated, and end-to-end encrypted communication Service, getting in touch with
 you, responding to your requests, working with our suppliers to deliver the Service and
 enabling its features, ensuring the security of the Service, developing, fixing, and
@@ -216,7 +216,7 @@ this content is the reason the Service exists.
 
 This content includes any information about yourself that you choose to share.
 
-We may need your personal inforamtion to establish, bring, or defend legal claims. For
+We may need your personal information to establish, bring, or defend legal claims. For
 this purpose, we will retain your personal information for no longer than 7 years after
 the date it is no longer needed by us for any purposes listed in this document, as per
 the statutory recommendations.
@@ -283,7 +283,7 @@ sophisticated access control system.
 If you use our Service, your data will be transferred outside of the EU to other
 homeservers and services connected with t2bot.io as this is necessary to provide
 the Service to you. By the very nature of our Service, such transfers occur
-regularly and we have no control over teh safeguards adopted by third party recipients.
+regularly and we have no control over the safeguards adopted by third party recipients.
 
 Where we engage suppliers to process your data outside the EU, we will ensure that
 appropriate safeguards such as the standard contractual clauses are in place.
@@ -302,7 +302,7 @@ person.
 
 We never knowingly collect, maintain, or process inforamtion in the Service from those
 we know are under the age of 16, and no part of the Service is structured to attract
-anyopne under the age of 16. If you are under the age of 16, please do not use the
+anyone under the age of 16. If you are under the age of 16, please do not use the
 Service.
 
 ## Updating/Correcting your information
@@ -343,7 +343,7 @@ Here is [Hetzner's privacy policy](https://www.hetzner.com/rechtliches/datenschu
 We host much of the Service in [DigitalOcean](https://www.digitalocean.com/) datacenters.
 Here is [DigitalOcean's privacy policy](https://www.digitalocean.com/legal/privacy-policy/).
 
-We use secure private keys when accessign servers via SSH, and protect our cloud
+We use secure private keys when accessing servers via SSH, and protect our cloud
 dashboards with a password managed by a password management tool.
 
 We log application data (username, user IP, and user agent). We keep logs for no longer
