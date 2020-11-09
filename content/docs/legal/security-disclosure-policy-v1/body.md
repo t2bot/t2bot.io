@@ -1,3 +1,5 @@
+*Last updated: November 7th, 2020*
+
 We greatly appreciate investigative work into security vulnerabilities carried out
 by well-intentioned, ethical, security researchers. We follow the practice of
 [responsible disclosure](https://en.wikipedia.org/wiki/Responsible_disclosure) in order

@@ -1,0 +1,12 @@
+title: Docs - Privacy Notice
+stylesheet: page
+
+header:
+  - /_shared/header.md
+  - hero.md
+
+main:
+  - body.md
+
+footer:
+  - /_shared/footer.md

@@ -2,11 +2,13 @@
 
 <div class="footer-column">
 
-#### More Links
+#### Information
 
-* [status.t2bot.io](https://status.t2bot.io)
+* [Privacy Notice](/docs/legal/privacy-v1)
+* [Terms and Conditions](/docs/legal/terms-v1)
 * [Code of Conduct](/docs/legal/code-of-conduct-v1)
 * [Security Disclosure Policy](/docs/legal/security-disclosure-policy-v1)
+* [Copyright Policy](/docs/legal/copyright-v1)
 
 </div>
 
@@ -18,6 +20,7 @@
 * [Infrastructure](/infrastructure)
 * [Public rooms](/docs/directory)
 * [Blog](/blog)
+* [status.t2bot.io](https://status.t2bot.io)
 
 </div>
 
