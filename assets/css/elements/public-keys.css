@@ -1,0 +1,26 @@
+.public-key {
+    display: flex;
+    width: 100%;
+}
+
+.public-key > img {
+    width: 128px;
+    height: 128px;
+    margin-right: 16px;
+}
+
+.public-key .key-wrapper {
+    display: flex;
+}
+
+.public-key .key-wrapper .key-user {
+    width: 20%;
+}
+
+.public-key .key-wrapper .key-info {
+    width: 80%;
+}
+
+.public-key-sessionKey, .public-key-sessionId, .public-key-sessionName, .public-key-userId {
+    padding-left: 6px;
+}

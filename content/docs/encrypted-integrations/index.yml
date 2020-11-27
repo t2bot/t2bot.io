@@ -1,0 +1,13 @@
+title: Docs - Encrypted Integrations
+stylesheet: page
+
+header:
+  - /_shared/header.md
+  - hero.md
+
+main:
+  - body.md
+  - ./integration/travis.md
+
+footer:
+  - /_shared/footer.md
