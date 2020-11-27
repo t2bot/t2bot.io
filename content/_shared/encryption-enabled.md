@@ -1,5 +1,5 @@
 <div class="banner info with-learn-more">
 
-**This bot supports encryption and can work in your encrypted rooms.** [Learn more](/docs/encrypted-integrations)
+**This bot supports encryption.** Keep your room secure without sacrificing collaboration. [Learn more](/docs/encrypted-integrations)
 
 </div>
