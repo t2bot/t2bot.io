@@ -1,5 +1,5 @@
-<div class="banner info encryption-banner">
+<div class="banner info with-learn-more">
 
-**Starting November 28th & 29th this bot will work in encrypted rooms. [Learn more](/blog/2020/10/30/enabling-encryption-for-bots/)**
+**This bot supports encryption and can work in your encrypted rooms.** [Learn more](/docs/encrypted-integrations)
 
 </div>

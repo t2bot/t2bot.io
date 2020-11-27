@@ -1,5 +1,5 @@
 .featured-integration a,
-.banners .encryption-banner a {
+.banners .with-learn-more a {
     background-color: var(--button-bg-color);
     color: var(--button-fg-color);
     text-decoration: none;
@@ -10,12 +10,12 @@
 }
 
 .featured-integration a:hover,
-.banners .encryption-banner a:hover {
+.banners .with-learn-more a:hover {
     background-color: var(--button-bg-hover-color);
     color: var(--button-fg-color);
 }
 
 .featured-integration a:active,
-.banners .encryption-banner a:active {
+.banners .with-learn-more a:active {
     color: var(--button-fg-color);
 }

@@ -10,7 +10,7 @@ react to anything not intended for them.
 **If you aren't comfortable with a bot being able to potentially read encrypted messages,
 please self-host or not include that bot in your encrypted rooms.** Some clients also
 support refusing to encrypt messages for unverified devices or outright banning
-encryption to certain devices/users - thse would be good options to use if your client
+encryption to certain devices/users - these would be good options to use if your client
 supports them and you aren't comfortable with the bot being able to read your messages
 in encrypted rooms.
 
