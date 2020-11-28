@@ -7,7 +7,7 @@ header:
 
 main:
   - body.md
-  - ./integration/travis.md
+  - ./integration/pollbot.md
 
 footer:
   - /_shared/footer.md
