@@ -3,6 +3,7 @@ stylesheet: page
 
 header:
   - /_shared/header.md
+  - hero.md
 
 banners:
   # - /_shared/lag_warning.md
