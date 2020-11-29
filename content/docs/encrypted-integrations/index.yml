@@ -7,7 +7,22 @@ header:
 
 main:
   - body.md
+  - ./integration/trello.md
+  - ./integration/gitlab.md
+  - ./integration/rss.md
   - ./integration/pollbot.md
+  - ./integration/reminder.md
+  - ./integration/welcome-back-bot.md
+  - ./integration/dice.md
+  - ./integration/factorial.md
+  - ./integration/haiku.md
+  - ./integration/hyperbot.md
+  - ./integration/hashtag.md
+  - ./integration/smile.md
+  - ./integration/sed.md
+  - ./integration/ping.md
+  - ./integration/urbandictionary.md
+  - ./integration/reddit.md
 
 footer:
   - /_shared/footer.md
