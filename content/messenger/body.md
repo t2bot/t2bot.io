@@ -4,12 +4,6 @@
 
 # Facebook Messenger
 
-<div class="beta-warning">
-
-**Caution**: This bridge is still very young. There may be bugs, missing features, or problems using it.
-
-</div>
-
 For help with the Facebook Messenger bridge, please visit [#help:t2bot.io](https://matrix.to/#/#help:t2bot.io)
 on Matrix.
 

@@ -9,6 +9,7 @@ siteBanners:
 
 banners:
   - /_shared/encryption-disabled.md
+  - /_shared/beta-integration.md
 
 main:
   - body.md

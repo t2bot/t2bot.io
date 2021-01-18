@@ -19,6 +19,10 @@
 	background-color: #92e0ff;
 }
 
+.banners .banner.danger {
+	background-color: #ff7d2e;
+}
+
 .banners .with-learn-more > p {
 	line-height: 40px;
 }
@@ -43,6 +47,10 @@
 	padding-left: 20px;
 }
 
+.banners:not(.site) .banner:nth-child(n + 2) {
+	margin-top: 12px;
+}
+
 .banners:not(.site) .banner.warning {
 	background-color: inherit;
 	border-color: #ffcb56;
@@ -51,6 +59,11 @@
 .banners:not(.site) .banner.info {
 	background-color: inherit;
 	border-color: #92e0ff;
+}
+
+.banners:not(.site) .banner.danger {
+	background-color: inherit;
+	border-color: #ff7d2e;
 }
 
 .banners:not(.site) .with-learn-more a {

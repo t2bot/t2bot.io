@@ -3,11 +3,13 @@ stylesheet: page
 
 header:
   - /_shared/header.md
+  - hero.md
 
 siteBanners:
   - /_shared/site-banners.md
 
-banners: []
+banners:
+  - /_shared/discontinued.md
 
 main:
   - body.md
