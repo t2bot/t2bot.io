@@ -9,7 +9,7 @@
   "author": "Travis Ralston",
   "dependencies": {
     "clean-css-cli": "^4.3.0",
-    "cuttlebelle": "^1.0.0-alpha.71"
+    "cuttlebelle": "^1.0.0-alpha.72"
   },
   "keywords": [],
   "license": "MIT",
