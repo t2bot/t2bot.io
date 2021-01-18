@@ -4,8 +4,11 @@ header:
   - /_shared/header.md
   - /_shared/hero.md
 
+siteBanners:
+  - /_shared/site-banners.md
+
 main:
-  # BANNERS
+  # AD BANNERS
   #- banner/encryption-available.md
 
   # INTEGRATIONS

@@ -4,6 +4,12 @@ stylesheet: page
 header:
   - /_shared/header.md
 
+siteBanners:
+  - /_shared/site-banners.md
+
+banners:
+  - banner.md
+
 main:
   - body.md
 

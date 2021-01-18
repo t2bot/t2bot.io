@@ -5,6 +5,9 @@ header:
   - /_shared/header.md
   - hero.md
 
+siteBanners:
+  - /_shared/site-banners.md
+
 main:
   - body.md
   - ./integration/trello.md

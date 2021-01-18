@@ -5,8 +5,10 @@ header:
   - /_shared/header.md
   - hero.md
 
+siteBanners:
+  - /_shared/site-banners.md
+
 banners:
-  # - /_shared/lag_warning.md
   - /_shared/encryption-disabled.md
 
 main:

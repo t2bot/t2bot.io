@@ -13,7 +13,7 @@ function isInstructional(title) {
 /**
  * The page layout component
  */
-const Page = ({ title, stylesheet, header, banners, main, footer, script, _relativeURL, _ID }) => (
+const Page = ({ title, stylesheet, header, banners, siteBanners, main, footer, script, _relativeURL, _ID }) => (
 	<html>
 	<head>
 		<title>t2bot.io - { title }</title>
@@ -70,11 +70,14 @@ const Page = ({ title, stylesheet, header, banners, main, footer, script, _relat
 				{ header }
 			</header>
 
-			<div className='banners'>
-				{ banners }
+			<div className='banners site'>
+				{ siteBanners }
 			</div>
 
 			<main>
+				<div className='banners'>
+					{ banners }
+				</div>
 				{ main }
 			</main>
 		</div>

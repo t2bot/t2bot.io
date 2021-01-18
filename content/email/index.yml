@@ -4,8 +4,10 @@ stylesheet: page
 header:
   - /_shared/header.md
 
-banners:
-  # - /_shared/lag_warning.md
+siteBanners:
+  - /_shared/site-banners.md
+
+banners: []
 
 main:
   - body.md

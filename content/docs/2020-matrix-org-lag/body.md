@@ -4,25 +4,14 @@
 
 # t2bot.io's federation problems with matrix.org
 
-<div class="banners">
-
-<div class="banner warning">
-
-**Note**: As of September 8th, 2020 the situation described here no longer applies. matrix.org has
-caught up on traffic from t2bot.io, though some periods of latency are still expected.
-
-</div>
-
-</div>
-
 Matrix is a decentralized and federated protocol, which means several servers all try to talk to
 each other to ensure that they all have an equal copy of a conversation. One of those servers is
 t2bot.io, and another is matrix.org. There are many more and you can even [host your own](https://matrix.org/docs/guides/installing-synapse).
 
 If your user ID ends with `:matrix.org` (in Element this will appear near your display name), you
-will have problems setting up services offered by t2bot.io. Note that rooms are not hosted on any
+may have problems setting up services offered by t2bot.io. Note that rooms are not hosted on any
 particular server, so other people in your room might not have the same problem. If they are also
-registered on matrix.org however, they will have issues too.
+registered on matrix.org however, they might have issues too.
 
 The easiest way to fix the issue is to register for an account on a different homeserver. Where
 possible, we recommend that you [host your own](https://matrix.org/docs/guides/installing-synapse)
