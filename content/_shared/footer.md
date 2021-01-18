@@ -32,7 +32,7 @@
 
 <div class="copyright">
 
-© 2020 Travis Ralston (sole operator of t2bot.io)
+© 2021 Travis Ralston (sole operator of t2bot.io)
 
 </div>
 
