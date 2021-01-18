@@ -2,7 +2,7 @@ title: Homepage
 
 header:
   - /_shared/header.md
-  - /_shared/hero.md
+  - hero.md
 
 siteBanners:
   - /_shared/site-banners.md

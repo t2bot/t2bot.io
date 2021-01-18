@@ -4,7 +4,7 @@ A public integration network for Matrix
 
 <div class="tag">
 
-Helping thousands of communities connect every day
+Thousands of communities use t2bot.io's bots & bridges to connect and share, all ad-free.
 
 </div>
 
