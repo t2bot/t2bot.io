@@ -12,7 +12,7 @@
 }
 
 .banners .banner.warning {
-	background-color: #ffd26d;
+	background-color: #ffcb56;
 }
 
 .banners .banner.info {
@@ -25,4 +25,35 @@
 
 .banners .with-learn-more a {
     margin-left: 16px;
+}
+
+/*****************************************
+ * ISOLATED PAGE OVERRIDES (not .site)
+ *****************************************/
+
+.banners:not(.site) p {
+	text-align: left;
+}
+
+.banners:not(.site) .banner {
+	border-width: 1px;
+	border-style: solid;
+	border-left-width: 8px;
+	border-left-style: solid;
+	padding-left: 20px;
+}
+
+.banners:not(.site) .banner.warning {
+	background-color: inherit;
+	border-color: #ffcb56;
+}
+
+.banners:not(.site) .banner.info {
+	background-color: inherit;
+	border-color: #92e0ff;
+}
+
+.banners:not(.site) .with-learn-more a {
+	margin-top: 8px;
+    margin-left: 0;
 }
