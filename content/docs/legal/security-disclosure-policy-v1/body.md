@@ -38,7 +38,8 @@ to recognize those who have responsibly disclosed security issues to us in the p
 
 # Hall of Fame
 
-*No entries.*
+* *March 4th, 2021* - matrix-media-repo - [jomat](https://jmt.gr/)<br />
+  An issue where short audio files could crash the process. Fixed in [v1.2.3](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.3)
 
 If you think we missed you, sorry - please let us know by messaging
 [@travis:t2l.io](https://matrix.to/#/@travis:t2l.io) on Matrix.
