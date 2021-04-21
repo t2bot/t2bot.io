@@ -14,7 +14,7 @@ The source code for the bot is available on [Github](https://github.com/maubot/g
 Apply the following steps:
 
 1. Invite [@gitlab:t2bot.io](https://matrix.to/#/@gitlab:t2bot.io) to your room.
-2. Log in to gitlab.com and open your repository's integration settings.
+2. Log in to gitlab.com and open your repository's webhook settings.
 3. For the URL, put `https://t2bot.io/gitlab/webhooks?room=!your_room_id`. Your room ID can be found on the "Advanced"
    tab of your room settings in Element.
 4. For the Secret Token, put `t2bot`
