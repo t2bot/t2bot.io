@@ -7,7 +7,7 @@ Your Discord community can be bridged into Matrix with these steps:
 1. In your Matrix room (creating one if required), invite [@_discord_bot:t2bot.io](https://matrix.to/#/@_discord_bot:t2bot.io)
    and wait for it to join.
 2. Use [this link](https://discordapp.com/api/oauth2/authorize?client_id=309408702530846730&scope=bot&permissions=607251456)
-   to invite the bridge to your Discord gserver.
+   to invite the bridge to your Discord server.
 3. Open the text channel (voice isn't supported yet) in the Discord web application.
 4. In the address bar there should be a URL like `https://discordapp.com/channels/ServerID/ChannelID` - use
    that as a reference to say in your Matrix room `!discord bridge ServerID ChannelID`.
