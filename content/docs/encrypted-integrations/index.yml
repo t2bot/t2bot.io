@@ -26,6 +26,7 @@ main:
   - ./integration/ping.md
   - ./integration/urbandictionary.md
   - ./integration/reddit.md
+  - ./integration/spacebot.md
 
 footer:
   - /_shared/footer.md
