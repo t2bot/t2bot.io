@@ -16,3 +16,9 @@ repository.
 [![Get $100 in free DigitalOcean credits](/assets/img/digitalocean.png)](https://m.do.co/c/d2b21b8d9270)
 
 </div>
+
+
+If you prefer crypto instead for anonymous donations, the following are available:
+
+* BTC: `3C7MWPcnYDWDW6RYRE3kcKSpZjnMZgerQv`
+* ETH: `0xeC06c80825A751D4891D53744771b4a18D57e530`
