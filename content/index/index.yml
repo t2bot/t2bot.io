@@ -9,7 +9,7 @@ siteBanners:
 
 main:
   # AD BANNERS
-  #- banner/encryption-available.md
+  - banner/community-space.md
 
   # INTEGRATIONS
   - integrations/bridges.md
