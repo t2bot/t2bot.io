@@ -10,6 +10,10 @@ integrations:
       icon: mx-discord.png
       target: /discord
       body: "Stay in touch with your Discord community by bridging them to Matrix."
+    - name: Community to Space Bot
+      icon: mx-spacebot.png
+      target: /spacebot
+      body: "Convert your legacy community to Spaces."
 ---
 
 # Bring your community to Matrix
