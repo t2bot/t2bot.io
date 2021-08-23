@@ -6,7 +6,7 @@
 
 Posts new CommitStrip comics to your room when they come in. This bot can also be used to find that CommitStrip you were looking for.
 
-This bot is powered by [maubot (Github)](https://github.com/maubot/maubot) through the [commitstrip plugin (Github)](https://github.com/maubot/commitstrip).
+This bot is powered by [maubot (GitHub)](https://github.com/maubot/maubot) through the [commitstrip plugin (GitHub)](https://github.com/maubot/commitstrip).
 
 
 ## Finding a comic

@@ -6,7 +6,7 @@
 
 A bot for updating your room's topic dynamically, such as including the total number of joined members.
 
-The source for this bot is available on [Github](https://github.com/turt2live/matrix-topic-bot).
+The source for this bot is available on [GitHub](https://github.com/turt2live/matrix-topic-bot).
 
 
 ## Using the bot

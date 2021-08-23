@@ -6,7 +6,7 @@
 
 This bot turns that frown upside down.
 
-The source code for the bot is available on [Github](https://github.com/turt2live/matrix-smile-bot).
+The source code for the bot is available on [GitHub](https://github.com/turt2live/matrix-smile-bot).
 
 
 ## Using the bot

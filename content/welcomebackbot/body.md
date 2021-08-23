@@ -6,7 +6,7 @@
 
 A bot for welcoming people back after they have been inactive for a while.
 
-The source code for the bot is available on [Github](https://github.com/turt2live/matrix-welcome-back-bot).
+The source code for the bot is available on [GitHub](https://github.com/turt2live/matrix-welcome-back-bot).
 
 
 ## Configuring the bot in your room

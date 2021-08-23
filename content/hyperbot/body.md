@@ -6,7 +6,7 @@
 
 Prefixes single-word nouns with "hyper" for fun.
 
-The source code for the bot is available on [Github](https://github.com/turt2live/matrix-hyper-bot).
+The source code for the bot is available on [GitHub](https://github.com/turt2live/matrix-hyper-bot).
 
 
 ## Using the bot

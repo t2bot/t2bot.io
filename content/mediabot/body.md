@@ -7,7 +7,7 @@
 Tells you the `mxc://` URI of your uploaded media. Useful for when you need to use a `mxc://` URI instead of a
 plain HTTP URL for referencing images.
 
-The source for this bot is available on [Github](https://github.com/turt2live/matrix-media-bot).
+The source for this bot is available on [GitHub](https://github.com/turt2live/matrix-media-bot).
 
 
 ## Using the bot

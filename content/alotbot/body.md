@@ -6,7 +6,7 @@
 
 A bot to remind your room members how to spell "a lot".
 
-This bot is powered by [maubot (Github)](https://github.com/maubot/maubot) through the [reactbot plugin (Github)](https://github.com/maubot/reactbot).
+This bot is powered by [maubot (GitHub)](https://github.com/maubot/maubot) through the [reactbot plugin (GitHub)](https://github.com/maubot/reactbot).
 
 
 ## Using the bot

@@ -2,10 +2,10 @@
 layout: featured-integration-section
 spacer: true
 integrations:
-    - name: Gitlab
+    - name: GitLab
       icon: mx-gitlab.png
       target: /gitlab
-      body: "Track your issues, merge requests, and project's progress with the Gitlab bot."
+      body: "Track your issues, merge requests, and project's progress with the GitLab bot."
     - name: Trello
       icon: mx-trello.png
       target: /trellobot

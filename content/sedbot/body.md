@@ -6,7 +6,7 @@
 
 A bot to help you do sed-like replacements on messages.
 
-This bot is powered by [maubot (Github)](https://github.com/maubot/maubot) through the [sed plugin (Github)](https://github.com/maubot/sed).
+This bot is powered by [maubot (GitHub)](https://github.com/maubot/maubot) through the [sed plugin (GitHub)](https://github.com/maubot/sed).
 
 
 ## Using the bot

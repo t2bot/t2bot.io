@@ -6,7 +6,7 @@
 
 Great for RPG rooms or wherever you need a fair dice roll.
 
-This bot is powered by [maubot (Github)](https://github.com/maubot/maubot) through the [dice plugin (Github)](https://github.com/maubot/dice).
+This bot is powered by [maubot (GitHub)](https://github.com/maubot/maubot) through the [dice plugin (GitHub)](https://github.com/maubot/dice).
 
 
 ## Using the bot

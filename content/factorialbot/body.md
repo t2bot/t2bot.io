@@ -6,7 +6,7 @@
 
 Helps you do math.
 
-This bot is powered by [maubot (Github)](https://github.com/maubot/maubot) through the [factorial plugin (Github)](https://github.com/maubot/factorial).
+This bot is powered by [maubot (GitHub)](https://github.com/maubot/maubot) through the [factorial plugin (GitHub)](https://github.com/maubot/factorial).
 
 
 ## Using the bot

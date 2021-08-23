@@ -22,7 +22,7 @@ them out before November 28th.
 Not all bots and bridges on t2bot.io will support encryption out of the gate for various
 reasons, however the few that will are:
 
-* [Gitlab Notifications](/gitlab)
+* [GitLab Notifications](/gitlab)
 * [Trello](/trellobot)
 * [RSS Notifications](/rssbot)
 * [Pollbot](/pollbot)

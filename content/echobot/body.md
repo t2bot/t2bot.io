@@ -8,7 +8,7 @@ The echo and ping bots are the same bot and help verify that your homeserver is 
 how your homeserver stacks up against other people, visit [#ping:maunium.net](https://matrix.to/#/#ping:maunium.net) on
 Matrix.
 
-This bot is powered by [maubot (Github)](https://github.com/maubot/maubot) through the [echo plugin (Github)](https://github.com/maubot/echo).
+This bot is powered by [maubot (GitHub)](https://github.com/maubot/maubot) through the [echo plugin (GitHub)](https://github.com/maubot/echo).
 
 
 ## Using the bot
