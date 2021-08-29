@@ -8,8 +8,8 @@
   },
   "author": "Travis Ralston",
   "dependencies": {
-    "clean-css-cli": "^4.3.0",
-    "cuttlebelle": "^1.0.0-alpha.72"
+    "clean-css-cli": "^5.3.3",
+    "cuttlebelle": "^1.0.0-alpha.75"
   },
   "keywords": [],
   "license": "MIT",
