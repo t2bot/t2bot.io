@@ -27,6 +27,7 @@ main:
   - ./integration/urbandictionary.md
   - ./integration/reddit.md
   - ./integration/spacebot.md
+  - ./integration/emailbot.md
 
 footer:
   - /_shared/footer.md

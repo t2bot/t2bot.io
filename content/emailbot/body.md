@@ -5,10 +5,9 @@
 # Email Notifications Bot
 
 This bot posts a message in your room when it receives an email for that room. This is most used for announcement
-purposes where the room should be receiving newsletters or other emails without the ability to respond. If you're
-looking for two-way communication, try the [Email Bridge](/email) instead.
+purposes where the room should be receiving newsletters or other emails without the ability to respond.
 
-The source code for the bot is available on [Github](https://github.com/turt2live/matrix-email-bot).
+The source code for the bot is available on [Github](https://github.com/t2bot/matrix-email-bot).
 
 
 ## Setting up the bot
