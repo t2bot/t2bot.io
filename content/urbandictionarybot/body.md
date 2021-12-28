@@ -6,7 +6,7 @@
 
 Search Urban Dictionary with this bot.
 
-This bot is powered by [maubot (Github)](https://github.com/maubot/maubot) through the [UrbanDictionary plugin (Github)](https://github.com/dvdgsng/UrbanMaubot).
+This bot is powered by [maubot (GitHub)](https://github.com/maubot/maubot) through the [UrbanDictionary plugin (GitHub)](https://github.com/dvdgsng/UrbanMaubot).
 
 
 ## Getting a definition

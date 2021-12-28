@@ -1,7 +1,7 @@
 ---
 layout: public-keys
 icon: mx-gitlab.png
-displayName: Gitlab Notifications
+displayName: GitLab Notifications
 userId: "@gitlab:t2bot.io"
 sessionName: pantalaimon
 sessionId: XOLEHEBUCC

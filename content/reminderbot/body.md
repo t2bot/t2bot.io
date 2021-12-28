@@ -6,7 +6,7 @@
 
 Keep track of tasks with the reminder bot.
 
-This bot is powered by [maubot (Github)](https://github.com/maubot/maubot) through the [reminder plugin (Github)](https://github.com/maubot/reminder).
+This bot is powered by [maubot (GitHub)](https://github.com/maubot/maubot) through the [reminder plugin (GitHub)](https://github.com/maubot/reminder).
 
 
 ## Using the bot

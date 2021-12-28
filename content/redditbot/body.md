@@ -6,7 +6,7 @@
 
 Provides links to subreddits in a condescending manner.
 
-This bot is powered by [maubot (Github)](https://github.com/maubot/maubot) through the [RedditMaubot plugin (Github)](https://github.com/TomCasavant/RedditMaubot).
+This bot is powered by [maubot (GitHub)](https://github.com/maubot/maubot) through the [RedditMaubot plugin (GitHub)](https://github.com/TomCasavant/RedditMaubot).
 
 
 ## Getting a definition

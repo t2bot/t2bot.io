@@ -7,7 +7,7 @@
 An absurd usage of the groups/communities API in Matrix: this bot creates a new group whenever it sees a
 hashtag in a message.
 
-The source for this bot is available on [Github](https://github.com/turt2live/matrix-hashtag-bot).
+The source for this bot is available on [GitHub](https://github.com/turt2live/matrix-hashtag-bot).
 
 
 ## Using the bot

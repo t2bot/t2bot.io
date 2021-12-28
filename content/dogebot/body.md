@@ -6,7 +6,7 @@
 
 This bot is summoned whenever you send a message with "doge", "wow", "much", "many", or "such" in it.
 
-The source code for the bot is available on [Github](https://github.com/CromFr/matrix-doge-bot).
+The source code for the bot is available on [GitHub](https://github.com/CromFr/matrix-doge-bot).
 
 
 ## Using the bot

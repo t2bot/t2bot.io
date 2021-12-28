@@ -8,7 +8,7 @@ Voyager is a bot which travels the Matrix network, graphing its journeys. For th
 to, it watches messages for references to other rooms and tries to join them. Every room it discovers
 is shown on [https://voyager.t2bot.io](https://voyager.t2bot.io).
 
-The source code for the bot is available on [Github](https://github.com/turt2live/matrix-voyager-bot).
+The source code for the bot is available on [GitHub](https://github.com/turt2live/matrix-voyager-bot).
 
 
 ## Adding the bot to your room

@@ -6,7 +6,7 @@
 
 Subscribes to RSS feeds in your room.
 
-This bot is powered by [maubot (Github)](https://github.com/maubot/maubot) through the [rss plugin (Github)](https://github.com/maubot/rss).
+This bot is powered by [maubot (GitHub)](https://github.com/maubot/maubot) through the [rss plugin (GitHub)](https://github.com/maubot/rss).
 
 
 ## Subscribing to a feed

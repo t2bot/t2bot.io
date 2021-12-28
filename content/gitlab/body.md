@@ -2,11 +2,11 @@
 # You don’t need to declare anything in the frontmatter
 ---
 
-# Gitlab Bot
+# GitLab Bot
 
-A bot for showing Gitlab activity in your Matrix room and for interacting with your Gitlab repositories.
+A bot for showing GitLab activity in your Matrix room and for interacting with your GitLab repositories.
 
-The source code for the bot is available on [Github](https://github.com/maubot/gitlab).
+The source code for the bot is available on [GitHub](https://github.com/maubot/gitlab).
 
 
 ## Getting notifications in your room
@@ -25,7 +25,7 @@ To later remove the bot from your room, delete the webhook in gitlab.com and kic
 
 ## Managing your repositories with the bot
 
-The bot has several commands to do things like create issues which require access to your Gitlab account.
+The bot has several commands to do things like create issues which require access to your GitLab account.
 
 1. Invite [@gitlab:t2bot.io](https://matrix.to/#/@gitlab:t2bot.io) to a **private chat**.
 2. Log in to gitlab.com and go to your account settings. Once there, click "Access Tokens" on the left side.

@@ -29,7 +29,7 @@ integrations:
     - name: XKCD
       icon: mx-xkcd.png
       target: /xkcdbot
-      body: "Read new KXCD comics when they get released."
+      body: "Read new XKCD comics when they get released."
     - name: CommitStrip
       icon: mx-commitstrip.png
       target: /commitstripbot

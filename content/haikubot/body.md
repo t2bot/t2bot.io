@@ -6,7 +6,7 @@
 
 When messages look like they fit in the haiku format, this bot does that.
 
-The source code for the bot is available on [Github](https://github.com/turt2live/matrix-haiku-bot).
+The source code for the bot is available on [GitHub](https://github.com/turt2live/matrix-haiku-bot).
 
 
 ## Using the bot

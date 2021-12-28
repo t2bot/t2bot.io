@@ -6,7 +6,7 @@
 
 Posts new XKCD comics to your room when they come in. This bot can also be used to find that XKCD you were looking for.
 
-This bot is powered by [maubot (Github)](https://github.com/maubot/maubot) through the [xkcd plugin (Github)](https://github.com/maubot/xkcd).
+This bot is powered by [maubot (GitHub)](https://github.com/maubot/maubot) through the [xkcd plugin (GitHub)](https://github.com/maubot/xkcd).
 
 
 ## Finding a comic

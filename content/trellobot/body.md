@@ -6,7 +6,7 @@
 
 A bot for interacting with Trello and being told when some events happen.
 
-The source code for the bot is available on [Github](https://github.com/turt2live/matrix-trello-bot).
+The source code for the bot is available on [GitHub](https://github.com/turt2live/matrix-trello-bot).
 
 
 ## Adding the bot to your room

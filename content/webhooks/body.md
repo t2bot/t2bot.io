@@ -8,7 +8,7 @@ For help with the Webhooks bridge, please visit [#help:t2bot.io](https://matrix.
 on Matrix.
 
 The source code for the bridge is available at [turt2live/matrix-appservice-webhooks](https://github.com/turt2live/matrix-appservice-webhooks)
-on Github.
+on GitHub.
 
 
 ## Creating a webhook for your room

@@ -6,7 +6,7 @@
 
 Helps translate words and phrases in your room.
 
-This bot is powered by [maubot (Github)](https://github.com/maubot/maubot) through the [translate plugin (Github)](https://github.com/maubot/translate).
+This bot is powered by [maubot (GitHub)](https://github.com/maubot/maubot) through the [translate plugin (GitHub)](https://github.com/maubot/translate).
 
 
 ## Using the bot
