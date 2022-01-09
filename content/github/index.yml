@@ -1,0 +1,20 @@
+title: GitHub Bridge
+stylesheet: page
+
+header:
+  - /_shared/header.md
+  - hero.md
+
+siteBanners:
+  - /_shared/site-banners.md
+
+banners:
+  - /_shared/encryption-disabled.md
+  - /_shared/beta-integration.md
+
+main:
+  - body.md
+  #- /_shared/video/telegram-setup.md
+
+footer:
+  - /_shared/footer.md
