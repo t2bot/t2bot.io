@@ -23,14 +23,6 @@ Other options for homeservers are:
 
 <div class="homeserver">
 
-<img src="/assets/img/feneas-logo.png" width="128" alt="feneas.org" />
-
-## [Feneas](https://feneas.org)
-
-</div>
-
-<div class="homeserver">
-
 <img src="/assets/img/mozilla-logo.svg" width="164" height="128" alt="mozilla.org" />
 
 ## [Mozilla](https://chat.mozilla.org)
