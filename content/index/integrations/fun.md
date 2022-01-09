@@ -10,6 +10,10 @@ integrations:
       icon: mx-haiku.png
       target: /haikubot
       body: "Unintentionally create short poems from people's messages."
+    - name: Trivia Bot
+      icon: mx-triviabot.png
+      target: /triviabot
+      body: "Try running Trivia Night over Matrix."
     - name: Hyper Bot
       icon: mx-hyperbot.png
       target: /hyperbot

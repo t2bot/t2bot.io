@@ -28,6 +28,7 @@ main:
   - ./integration/reddit.md
   - ./integration/spacebot.md
   - ./integration/emailbot.md
+  - ./integration/triviabot.md
 
 footer:
   - /_shared/footer.md

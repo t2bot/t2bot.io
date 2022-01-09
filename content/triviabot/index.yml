@@ -1,4 +1,4 @@
-title: Poll Bot
+title: Trivia Bot
 stylesheet: page
 
 header:
@@ -9,7 +9,7 @@ siteBanners:
 
 banners:
   - /_shared/encryption-enabled.md
-  - /_shared/scheduled-discontinued.md
+  - /_shared/beta-integration.md
 
 main:
   - body.md
