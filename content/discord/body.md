@@ -51,3 +51,8 @@ room, see Question 3.
 
 This is usually a permissions issue. Verify that the bot is allowed to see the channel on Discord, and that it has permission to manage webhooks and send messages. On Matrix, verify that the bot has joined the room and that it is
 not encrypted.
+
+### 6. What are all of the available commands?
+
+You can view a list of all available commands with `!discord help` in a Matrix room or with `!matrix help` in a Discord channel.
+Keep in mind, that only commands which you have permission to execute will be shown.
