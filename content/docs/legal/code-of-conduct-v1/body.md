@@ -52,7 +52,7 @@ Harassment is strictly not tolerated, and can include the following:
 * Harassing photography or recording, including logging online activity for harassment
   purposes.
 * Sustained distruption of conversation.
-* Unwelcome secual attention, including off-topic images or behaviour.
+* Unwelcome sexual attention, including off-topic images or behaviour.
 * Patterns of inappropriate social contact, such as requesting/assuming inappropriate
   levels of intimacy with others.
 * Continued one-on-one communication after requests cease.
