@@ -9,7 +9,7 @@ siteBanners:
 
 banners:
   - /_shared/encryption-enabled.md
-  - /_shared/scheduled-discontinued.md
+  - /_shared/discontinued.md
 
 main:
   - body.md
