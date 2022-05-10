@@ -2,10 +2,6 @@
 layout: featured-integration-section
 spacer: true
 integrations:
-    - name: Polls
-      icon: mx-pollbot.png
-      target: /pollbot
-      body: "Find out how your community feels about important topics with the poll bot."
     - name: Reminders
       icon: mx-reminder.png
       target: /reminderbot

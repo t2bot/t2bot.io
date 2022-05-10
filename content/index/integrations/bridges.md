@@ -14,10 +14,6 @@ integrations:
       icon: mx-github.png
       target: /github
       body: "Manage your project without having to leave Matrix."
-    - name: Community to Space Bot
-      icon: mx-spacebot.png
-      target: /spacebot
-      body: "Convert your legacy community to Spaces."
 ---
 
 # Bring your community to Matrix

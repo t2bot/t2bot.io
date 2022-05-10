@@ -26,10 +26,6 @@ integrations:
       icon: mx-stickers.png
       target: /stickerbot
       body: "Create and share your own sticker packs with your community."
-    - name: Hashtag Bot
-      icon: mx-hashtag.png
-      target: /hashtagbot
-      body: "Accidentally form new communities by using hashtags in messages."
     - name: XKCD
       icon: mx-xkcd.png
       target: /xkcdbot
