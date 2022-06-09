@@ -13,7 +13,6 @@ main:
   - ./integration/trello.md
   - ./integration/gitlab.md
   - ./integration/rss.md
-  - ./integration/pollbot.md
   - ./integration/reminder.md
   - ./integration/welcome-back-bot.md
   - ./integration/dice.md
@@ -26,7 +25,6 @@ main:
   - ./integration/ping.md
   - ./integration/urbandictionary.md
   - ./integration/reddit.md
-  - ./integration/spacebot.md
   - ./integration/emailbot.md
   - ./integration/triviabot.md
 
