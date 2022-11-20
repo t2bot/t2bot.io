@@ -32,6 +32,8 @@
 
 <div class="copyright">
 
+<a rel="me" href="https://mstdn.ca/@travisr">Follow TravisR on Mastodon</a>
+
 © 2022 Travis Ralston (sole operator of t2bot.io)
 
 </div>
