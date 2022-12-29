@@ -18,5 +18,8 @@ main:
   - integrations/customization.md
   - integrations/fun.md
 
+  # FOOTER AD BANNERS
+  - /_shared/donate-banner.md
+
 footer:
   - /_shared/footer.md

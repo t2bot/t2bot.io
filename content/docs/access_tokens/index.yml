@@ -9,6 +9,7 @@ siteBanners:
 
 main:
   - body.md
+  - /_shared/donate-banner.md
 
 footer:
   - /_shared/footer.md

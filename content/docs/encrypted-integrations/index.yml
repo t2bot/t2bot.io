@@ -27,6 +27,7 @@ main:
   - ./integration/reddit.md
   - ./integration/emailbot.md
   - ./integration/triviabot.md
+  - /_shared/donate-banner.md
 
 footer:
   - /_shared/footer.md
