@@ -9,7 +9,7 @@ siteBanners:
 
 main:
   # AD BANNERS
-  - banner/community-space.md
+  #- banner/community-space.md
 
   # INTEGRATIONS
   - integrations/bridges.md
