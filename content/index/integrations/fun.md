@@ -2,6 +2,10 @@
 layout: featured-integration-section
 spacer: false
 integrations:
+    - name: Reminders
+      icon: mx-reminder.png
+      target: /reminderbot
+      body: "Track what's coming up by setting reminders with the reminder bot."
     - name: Welcome Back Bot
       icon: mx-welcomeback.png
       target: /welcomebackbot

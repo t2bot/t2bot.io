@@ -14,8 +14,8 @@ main:
   # INTEGRATIONS
   - integrations/bridges.md
   - integrations/bots-connected.md
-  - integrations/bots-informed.md
-  - integrations/customization.md
+  #- integrations/bots-informed.md  # Removed because only the reminder bot is useful (it's been moved to "fun")
+  #- integrations/customization.md  # Removed because Dimension is discontinued, and tag manager doesn't really do anything
   - integrations/fun.md
 
   # FOOTER AD BANNERS
