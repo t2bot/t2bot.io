@@ -14,7 +14,7 @@ message deletion all continue to work as expected.
 
 If you want to later disconnect the bridge, say `!tg unbridge` in the Matrix room.
 
-<video src="https://prod.t2bot-cdn.com/t2bot-telegram.mp4" type="video/mp4" controls="true" poster="/assets/img/thumbnail-telegram-setup.png"></video>
+<!-- <video src="https://prod.t2bot-cdn.com/t2bot-telegram.mp4" type="video/mp4" controls="true" poster="/assets/img/thumbnail-telegram-setup.png"></video> -->
 
 The source of the bridge can be inspected [on github](https://github.com/t2bot/mautrix-telegram), though
 if you're looking to run your own then we recommend [the upstream project](https://github.com/tulir/mautrix-telegram).
