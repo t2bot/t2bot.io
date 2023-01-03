@@ -4,7 +4,7 @@
 
 Thank you for considering donating to t2bot.io today. The bots and bridges on t2bot.io are completely free to use, and we'd like to keep it that way.
 
-The service currently costs about **$1500 CAD per month** in hosting fees. If free to use bridges and bots have been useful to you, please donate $5, $20, $50, or whatever feels right to you today.
+The service currently costs about **$1500 CAD per month** in hosting fees. If t2bot.io has been useful to you, please donate $5, $20, $50, or whatever feels right to you today.
 
 <img src="/assets/img/promo/donate-cropped.png" style="width: 114px; vertical-align: bottom; margin-right: 8px;"/>
 <script src="https://liberapay.com/turt2live/widgets/receiving.js"></script>
