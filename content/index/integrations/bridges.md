@@ -1,6 +1,7 @@
 ---
 layout: featured-integration-section
 spacer: true
+footer: "Not seeing a bridge you'd like? Please consider <a href='/donations'>donating</a> to give us funding to run it."
 integrations:
     - name: Telegram
       icon: mx-telegram.png

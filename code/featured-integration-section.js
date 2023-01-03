@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react';
 
-const FeaturedIntegrationSection = ({ _ID, _relativeURL, _body, integrations, spacer }) => (
+const FeaturedIntegrationSection = ({ _ID, _relativeURL, _body, integrations, spacer, footer }) => (
   <Fragment>
     {_body}
     <div className="featured">
@@ -15,6 +15,7 @@ const FeaturedIntegrationSection = ({ _ID, _relativeURL, _body, integrations, sp
             </div>
         ))}
     </div>
+    {footer ? <div dangerouslySetInnerHTML={{__html: footer}}></div> : null}
     {spacer ? <div className="spacer">&nbsp;</div> : null}
   </Fragment>
 );

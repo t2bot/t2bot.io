@@ -1,6 +1,6 @@
 <div class="hero">
 
-A public integration network for Matrix
+Free community-centric bots & bridges for Matrix
 
 <div class="tag">
 
