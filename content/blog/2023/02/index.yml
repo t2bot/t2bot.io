@@ -1,0 +1,14 @@
+title: Blog - February 2023
+stylesheet: page
+
+header:
+  - /_shared/header.md
+
+siteBanners:
+  - /_shared/site-banners.md
+
+main:
+  - body.md
+
+footer:
+  - /_shared/footer.md
