@@ -14,6 +14,7 @@ The service currently costs about **$1500 CAD per month** in hosting fees. If t2
 Other options for donating include:
 
 * [Credit card, Google Pay, Apple Pay](https://donate.stripe.com/fZeaI0eC95rx9QQdQQ)
+* [PayPal](https://www.paypal.com/paypalme/turt2live)
 * BTC: `3C7MWPcnYDWDW6RYRE3kcKSpZjnMZgerQv`
 * ETH: `0xeC06c80825A751D4891D53744771b4a18D57e530`
 
