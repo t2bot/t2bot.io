@@ -20,12 +20,7 @@ Operating at this scale requires, well, $12k USD per year: if you’re able, ple
 
 Questions, concerns, etc are best discussed in [#help:t2bot.io](https://matrix.to/#/#help:t2bot.io) on Matrix. Nearly every detail of how t2bot.io works is intended to be shared openly, which includes the financial aspect of running the service, so ask away 🙂
 
-Thanks,
+Thanks, <br />
 TravisR, t2bot.io
 
-<small><i>Icon graphics sourced from matrix-react-sdk under
-<a href="https://github.com/matrix-org/matrix-react-sdk/blob/ca4e7202aed6154e2681f67874f8cd20ac9ec151/LICENSE" target="_blank">Apache 2.0</a>:
-<a href="https://github.com/matrix-org/matrix-react-sdk/blob/ca4e7202aed6154e2681f67874f8cd20ac9ec151/res/img/e2e/verified.svg" target="_blank">Green Shield</a>
-| <a href="https://github.com/matrix-org/matrix-react-sdk/blob/ca4e7202aed6154e2681f67874f8cd20ac9ec151/res/img/e2e/warning.svg" target="_blank">Red Shield</a>
-| <a href="https://github.com/matrix-org/matrix-react-sdk/blob/ee8d885e707e666a267868b437f14491b1b5d980/res/css/views/rooms/_E2EIcon.scss#L66-L79" target="_blank">Colours</a>
-</i></small>
+<small><i><a href="https://www.flaticon.com/free-icons/donation" title="donation icons">Donation icons created by photo3idea_studio - Flaticon</a></i></small>
