@@ -23,3 +23,9 @@
 .featured-room > div {
     margin-left: 12px;
 }
+
+.featured-room img.square {
+    width: 70px;
+    height: 70px;
+    border-radius: 8px;
+}
