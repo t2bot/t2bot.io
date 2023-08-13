@@ -7,7 +7,7 @@ code actually works. This can be difficult to validate without example servers, 
 
 t2bot.io provides `resolvematrix.dev` as a service to help with this. With consideration for [MSC4045](https://github.com/matrix-org/matrix-spec-proposals/pull/4045), all of the
 server discovery steps are supported by domains here. These domains *should* be safe to use in unit or integration tests, and uptime is monitored by
-[status.resolvematrix.dev](https://status.resolvematrix.dev/). If you run into and problems, let us know in [#help:t2bot.io](https://matrix.to/#/#help:t2bot.io) on Matrix.
+[status.resolvematrix.dev](https://status.resolvematrix.dev/). If you run into any problems, let us know in [#help:t2bot.io](https://matrix.to/#/#help:t2bot.io) on Matrix.
 
 ## The Domains
 
