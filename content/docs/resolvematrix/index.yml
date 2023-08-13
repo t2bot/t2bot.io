@@ -1,0 +1,18 @@
+title: resolvematrix.dev
+stylesheet: page
+
+header:
+  - /_shared/header.md
+  - hero.md
+
+siteBanners:
+  - /_shared/site-banners.md
+
+banners: []
+
+main:
+  - body.md
+  - /_shared/donate-banner.md
+
+footer:
+  - /_shared/footer.md

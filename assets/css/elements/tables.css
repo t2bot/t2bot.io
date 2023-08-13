@@ -1,0 +1,18 @@
+table {
+	width: 100%;
+	border-spacing: 0;
+	border-collapse: collapse;
+  margin-bottom: 32px;
+}
+
+table tr td, table tr th {
+	padding-right: 16px;
+}
+
+table tbody tr td {
+	border-bottom: 1px solid #c1c1c1;
+}
+
+table thead tr th {
+	border-bottom: 1px solid black;
+}

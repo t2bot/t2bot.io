@@ -16,6 +16,7 @@
 @import url("elements/financials.css");
 @import url("elements/public-keys.css");
 @import url("elements/buttons.css");
+@import url("elements/tables.css");
 
 html {
 	height: 100%;
