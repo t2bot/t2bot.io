@@ -68,3 +68,14 @@ a {
 a:hover, a:active {
 	color: #007db5;
 }
+
+blockquote {
+	border-left: 2px solid #818181;
+	margin: 16px 8px;
+	padding: 0;
+	padding-left: 16px;
+}
+
+blockquote p {
+	display: inline;
+}

@@ -38,16 +38,24 @@ to recognize those who have responsibly disclosed security issues to us in the p
 
 # Hall of Fame
 
-* *September 8th, 2023* - matrix-media-repo - [joshqou](https://github.com/joshqou) via the [matrix.org security team](https://matrix.org/security-disclosure-policy/)<br />
-  Discovered unsafe usage of `Content-Disposition: inline`, further unveiling improper `Content-Type` handling. Described as [CVE-2023-41318 (GHSA-5crw-6j7v-xc72)](https://github.com/turt2live/matrix-media-repo/security/advisories/GHSA-5crw-6j7v-xc72),
-  addressed by [MSC2702](https://github.com/matrix-org/matrix-spec-proposals/pull/2702), and fixed by [v1.3.0](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.3).
-* *March 4th, 2021* - matrix-media-repo - [jomat](https://jmt.gr/)<br />
-  An issue where short audio files could crash the process. Fixed in [v1.2.3](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.3)
-* *April 15th, 2021* - matrix-media-repo - [Muhammad Zaid Ghifari](https://twitter.com/Zheev1)<br />
-  Memory exhaustion through thumbnailing crafted media. Described as [CVE-2021-29453](https://github.com/turt2live/matrix-media-repo/security/advisories/GHSA-j889-h476-hh9h)
-  and fixed in [v1.2.7](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.7).
-* *April 30th, 2021* - matrix-media-repo - [jomat](https://jmt.gr/)<br />
-  An issue where malicious APNGs files could crash the process. Fixed in [v1.2.8](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.8)
+> *September 6th, 2023 - matrix-media-repo - [joshqou](https://github.com/joshqou) via the [matrix.org security team](https://matrix.org/security-disclosure-policy/)*<br />
+> Discovered unsafe usage of `Content-Disposition: inline`, further unveiling improper `Content-Type` handling in matrix-media-repo
+> ([CVE-2023-41318](https://www.cve.org/CVERecord?id=CVE-2023-41318), [GHSA-5crw-6j7v-xc72](https://github.com/turt2live/matrix-media-repo/security/advisories/GHSA-5crw-6j7v-xc72)).
+> Addressed by [MSC2702](https://github.com/matrix-org/matrix-spec-proposals/pull/2702).
+> Fixed in [v1.3.0](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.3.0).
+
+> *March 4th, 2021 - matrix-media-repo - [jomat](https://jmt.gr/)*<br />
+> Discovered that short audio files could crash the process.
+> Fixed in [v1.2.3](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.3).
+
+> *April 15th, 2021 - matrix-media-repo - [Muhammad Zaid Ghifari](https://twitter.com/Zheev1)*<br />
+> Discovered a memory exhaustion vector when thumbnailing intentionally small byte-size images, but expand to large files when decoded
+> ([CVE-2021-29453](https://www.cve.org/CVERecord?id=CVE-2021-29453), [GHSA-j889-h476-hh9h](https://github.com/turt2live/matrix-media-repo/security/advisories/GHSA-j889-h476-hh9h)).
+> Fixed in [v1.2.7](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.7).
+
+> *April 30th, 2021 - matrix-media-repo - [jomat](https://jmt.gr/)*<br />
+> Discovered that malicious APNG files could crash the process.
+> Fixed in [v1.2.8](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.8).
 
 If you think we missed you, sorry - please let us know by messaging
 [@travis:t2l.io](https://matrix.to/#/@travis:t2l.io) on Matrix.
