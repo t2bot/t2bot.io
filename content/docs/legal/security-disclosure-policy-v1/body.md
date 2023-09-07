@@ -38,6 +38,9 @@ to recognize those who have responsibly disclosed security issues to us in the p
 
 # Hall of Fame
 
+* *September 8th, 2023* - matrix-media-repo - [joshqou](https://github.com/joshqou) via the [matrix.org security team](https://matrix.org/security-disclosure-policy/)<br />
+  Discovered unsafe usage of `Content-Disposition: inline`, further unveiling improper `Content-Type` handling. Described as [CVE-2023-41318 (GHSA-5crw-6j7v-xc72)](https://github.com/turt2live/matrix-media-repo/security/advisories/GHSA-5crw-6j7v-xc72),
+  addressed by [MSC2702](https://github.com/matrix-org/matrix-spec-proposals/pull/2702), and fixed by [v1.3.0](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.3).
 * *March 4th, 2021* - matrix-media-repo - [jomat](https://jmt.gr/)<br />
   An issue where short audio files could crash the process. Fixed in [v1.2.3](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.3)
 * *April 15th, 2021* - matrix-media-repo - [Muhammad Zaid Ghifari](https://twitter.com/Zheev1)<br />
