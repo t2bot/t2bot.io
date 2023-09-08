@@ -51,6 +51,10 @@ those who have responsibly disclosed security issues to us in the past.
 > Addressed by [MSC2702](https://github.com/matrix-org/matrix-spec-proposals/pull/2702).
 > Fixed in [v1.3.0](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.3.0).
 
+> *April 30th, 2021 - matrix-media-repo - [jomat](https://jmt.gr/)*<br />
+> Discovered that malicious APNG files could crash the process.
+> Fixed in [v1.2.8](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.8).
+
 > *April 15th, 2021 - matrix-media-repo - [Muhammad Zaid Ghifari](https://twitter.com/Zheev1)*<br />
 > Discovered a memory exhaustion vector when thumbnailing intentionally small byte-size images, but expand to large files when decoded
 > ([CVE-2021-29453](https://www.cve.org/CVERecord?id=CVE-2021-29453), [GHSA-j889-h476-hh9h](https://github.com/turt2live/matrix-media-repo/security/advisories/GHSA-j889-h476-hh9h)).
@@ -59,10 +63,6 @@ those who have responsibly disclosed security issues to us in the past.
 > *March 4th, 2021 - matrix-media-repo - [jomat](https://jmt.gr/)*<br />
 > Discovered that short audio files could crash the process.
 > Fixed in [v1.2.3](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.3).
-
-> *April 30th, 2021 - matrix-media-repo - [jomat](https://jmt.gr/)*<br />
-> Discovered that malicious APNG files could crash the process.
-> Fixed in [v1.2.8](https://github.com/turt2live/matrix-media-repo/releases/tag/v1.2.8).
 
 If you think we missed you, sorry - please let us know by messaging
 [@travis:t2l.io](https://matrix.to/#/@travis:t2l.io) on Matrix.
