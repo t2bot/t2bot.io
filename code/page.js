@@ -3,7 +3,7 @@ import React from 'react';
 
 
 function isInstructional(title) {
-	if (title === "Homepage" || title.startsWith("Docs") || title.startsWith("Blog")) {
+	if (title === "Homepage" || title.startsWith("Docs") || title.startsWith("Blog") || title.startsWith("Go -")) {
 		return false;
 	}
 
@@ -13,7 +13,7 @@ function isInstructional(title) {
 /**
  * The page layout component
  */
-const Page = ({ title, stylesheet, header, banners, siteBanners, main, footer, script, _relativeURL, _ID }) => (
+const Page = ({ title, stylesheet, header, banners, siteBanners, goMeta, main, footer, script, _relativeURL, _ID }) => (
 	<html>
 	<head>
 		<title>t2bot.io - { title }</title>
@@ -37,6 +37,11 @@ const Page = ({ title, stylesheet, header, banners, siteBanners, main, footer, s
 		} />
 		<meta property="og:image" content="https://www.t2host.io/assets/img/t2bot-stacked.png" />
 		<meta name="keywords" content="matrix, homeserver, bridges, bots, integrations, public"/>
+		{
+			!!goMeta
+			? <meta name="go-import" content={goMeta} />
+			: ""
+		}
 
 		<link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicon/apple-icon-57x57.png"/>
 		<link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicon/apple-icon-60x60.png"/>

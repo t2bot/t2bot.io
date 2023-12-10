@@ -1,0 +1,16 @@
+title: Go - Discord
+stylesheet: page
+goMeta: "t2bot.io/godev/discord git https://github.com/t2bot/discord.git"
+
+header:
+  - /_shared/header.md
+  - hero.md
+
+siteBanners:
+  - /_shared/site-banners.md
+
+main:
+  - body.md
+
+footer:
+  - /_shared/footer.md
