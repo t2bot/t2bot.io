@@ -19,3 +19,9 @@
 ### [February 2023](/blog/2023/02)
 
 * February 8th, 2023 - [t2bot.io seeking donations](/blog/2023/02/08/seeking-donations)
+
+## [2024](/blog/2024)
+
+### [January 2024](/blog/2024/01)
+
+* January 14th, 2024 - [Unintended reset on the Discord bridge](/blog/2024/01/14/discord-bridge-reset)
