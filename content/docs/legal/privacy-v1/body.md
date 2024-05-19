@@ -1,397 +1,422 @@
-*Last updated: November 7th, 2020*
+*Last updated: May 18th, 2024*
 
-Please read this document carefully before accessing or using this service!
+Please read this document carefully before accessing or using this service.
 
 # Introduction
 
-Most privacy documents are unreadable. They are written by lawyers and for lawyers,
-and in our opinion are not very effective.
+Most Privacy Policy documents are unreadable. They are written by lawyers and for lawyers, and in
+our opinion are not very effective. Data protection and privacy are important, and we want you to
+understand the issues involved. For that reason we decided to use plain English instead as much as
+possible, to make our terms as clear as possible.
 
-Data protection and privacy are important, and we want you to understand the issues
-involved. For that reason, we decided to use plain English instead as much as possible
-to make our documents as clear as they can be.
-
-When you read "the t2bot.io homeserver", "t2bot.io", or "the Service" below, it refers
-to the services made available at https://t2bot.io and https://t2host.io (and any
-subdomains of either). These services store your interactions, conversation history,
-and provide a means of communication via the open Matrix decentralized communication
+When you read 'the t2bot.io homeserver' or 'the Service' below, it refers to the services made
+available at https://t2bot.io which store your account and personal conversation history, provide
+services such as bots and bridges, and communicate via the open Matrix decentralised communication
 protocol with the public Matrix Network.
 
-The public Matrix Network is a decentralized and openly federated communication network.
-This means that user messages are replicated on each participant's server and messages
-posted to a room are visible to all participants including in some cases any new joiners.
-This is explained further later in this document.
+The public Matrix Network is a decentralised and openly federated communication network. This means
+that user messages are replicated on each participant's server and messages posted to a room are
+visible to all participants including in some cases any new joiners. This is further explained at 2.3.
 
-When you read "we", "our", or "us" below it refers to t2bot.io's owners and operators -
-currently this is a role held solely by Travis Ralston (TravisR,
-[@travis:t2l.io](https://matrix.to/#/@travis:t2l.io)).
+Where you read The Matrix.org Foundation C.I.C., The Matrix.org Foundation, or The Foundation, it
+refers to the Community Interest Company incorporated on 29 October 2018 to be the neutral custodian
+of the Matrix protocol: The Matrix.org Foundation C.I.C., and their agents.
 
-The Matrix protocol is licensed by the Matrix Foundation which makes it available to
-third parties who set up their own homeserver. This privacy policy does not apply to
-such Matrix servers run by anyone else - Matrix is an open network like the Web and
-this agreement only applies to the t2bot.io server.
+The Matrix protocol is licensed by the Matrix.org Foundation which makes it available to third parties
+who set up their own homeserver. This privacy policy does not apply to such Matrix servers run by
+anyone else - Matrix is an open network like the Web and this agreement only applies to the server
+(t2bot.io) sponsored by The Matrix.org Foundation C.I.C.
 
-TravisR is the Data Controller for the Service. We can be contacted as per the following:
+Travis Ralston is the Data Controller for the Service, and works with The Matrix.org Foundation C.I.C.
+and their agents as a Processor for data processing, hosting, and management purposes. The Foundation
+is additionally consulted on data privacy matters pertaining to t2bot.io, such as GDPR requests and
+general advice.
 
-* On Matrix through [@travis:t2l.io](https://matrix.to/#/@travis:t2l.io).
-* By email through [travis@t2bot.io](mailto:travis@t2bot.io). Please note that email
-  communication is often slower and can have upwards of a 5 business day delay.
+Travis Ralston can be contacted as per the details below:
 
-Should you have any questions or concerns about this document, please let us know through
-one of the contact methods above.
+Matrix: [@travis:t2l.io](https://matrix.to/#/@travis:t2l.io)
+
+Email: [travis@t2bot.io](mailto:travis@t2bot.io). Please note that email communication is often slower
+and can have upwards of a 5 business day delay.
+
+Should you have other questions or concerns about this document, please let us know using the above
+communication methods.
 
 ## This is a living document
 
-This document is constantly evolving and being updated. With your help, we want to make
-it the best it can be.
+This is a living document. With your help, we want to make it the best in the industry.
 
-If you read something that rubs you the wrong way, or you think something should be
-added - let us know using the contact methods above. We'd love to chat!
+If you read something that rubs you the wrong way, or if you think of something that should be added,
+please get in touch! We're all ears! Reach out using the contact methods above. We don't amend this
+document for any specific users or use case, but if your proposed changes apply to all of our users,
+we'll be happy to update it for everyone. Scroll to the bottom to see the history so far.
 
-We don't amend this document for any specific users or use case, but if your proposed
-changes apply to all of our users, we'll happily update it for everyone. Scroll to the
-bottom to see the history so far.
+We will likely improve this document over time and we will take steps to inform our users about any
+updates. By continuing to use the Service, you will implicitly accept the changes we make. If updates
+to this document are ever associated with significant changes to the way we collect our process your
+data, we will promptly notify you.
 
-We will likely improve this document over time and we will take steps to inform our users
-about any updates. By continuing to use the Service, you implicitly accept the changes
-we make. If updates to this document are ever associated with significant changes to the
-way we collect or process your data, we will promptly notify you.
+Your access and use of the Service is always subject to the most current version of this document.
 
-Your access and use of the Service is always subject to the most current version of this
-document.
+# Access to your data
 
-# Access to your data / Privacy policy
+## What is the legal basis for processing my data and how does this affect my rights under GDPR (General Data Protection Regulation)?
 
-Here contains all the information about what we collect and how we use it.
+### Legal basis for processing
 
-## Legal basis for processing
+t2bot.io processes your data under a Legitimate Interest basis of processing, to provide our Service
+to you in an efficient and secure manner and to ensure the legal compliance and proper administration
+of our business. Essentially, this means that we process your data only as necessary to deliver the
+Service and for internal administration purposes, and in a manner that you understand and expect. We
+also carry out processing that is necessary to provide our Service to you under our t2bot.io Homeserver
+Terms and Conditions and processing that is necessary to comply with our legal obligations. Where
+consent is required by law in relation to certain processing, we will ask for your consent.
 
-Under the GDPR (General Data Protection Regulation), we process your data under
-a [Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/)
-basis of processing to provide you the Service in an efficient and secure manner and
-to ensure the legal compliance and proper administration of the Service. Essentially,
-this means that we process your data only as necessary to deliver the Service and for
-internal administration purposes, and in a manner that you understand and expect. We
-also carry out processing that is necessary to provide our Service to you under our
-Terms and Conditions and processing that is necessary to comply with our legal
-obligations. Where consent is required by law in relation to certain processing, we will
-ask for your consent.
+We process your information for the purposes of providing our decentralised, openly-federated and
+end-to-end encrypted communication Service, getting in touch with you, responding to your requests,
+working with our suppliers to deliver the Service and enabling its features, ensuring the security
+of our Service, developing, fixing and improving our Service, administering our business and complying
+with the law.
 
-We process your information for the purposes of providing our decentralized,
-openly-federated, and end-to-end encrypted communication Service, getting in touch with
-you, responding to your requests, working with our suppliers to deliver the Service and
-enabling its features, ensuring the security of the Service, developing, fixing, and
-improving our Service, administering our business, and complying with the law.
+The nature of the Service and its implementation results in some caveats concerning this processing,
+particularly in terms of GDPR Article 17 Right to Erasure (Right to be Forgotten). We believe these
+caveats (discussed in the section below in detail) are in line with the broader societal interests
+served by providing the Service. In situations where the interests of the individual appear to be in
+conflict with the broader societal interests, we will seek to reconcile those differences guided by
+our policy.
 
-The nature of the Service and its implementation results in some caveats concerning this
-processing, particularly in terms of GDPR Article 17 *Right to Erasure (Right to be
-Forgotten)*. We believe these caveats (described in detail later in this document) are
-in line with the broader societal interests served by providing the Service.
+### Your rights as Data Subject
 
-In situations where the interests of the individual appear to be in conflict with the
-broader societal interests, we will seek to reconcile those differences guided by our
-policy.
+You have rights in relation to the personal data we hold about you. Some of these only apply in
+certain circumstances. Some of these rights are explored in more detail elsewhere in this document.
+For completeness, your rights under GDPR are:
 
-## A note about how the Service works
+1. The right to be informed
+2. The right of access
+3. The right to rectification
+4. The right to erasure
+5. The right to restrict processing
+6. The right to data portability
+7. The right to object
+8. Rights in relation to automated decision making and profiling
 
-We do not provide user accounts on our Matrix homeserver for anyone, other than
-ourselves, to use. The Service does store conversation history from the Matrix Public
-Network (federation) and third parties when bridged, such as Telegram and Discord.
+We may ask for proof of identity before responding to your request. For more details about these
+rights, please see the guidance provided by the ICO. If you have any questions or are unsure how to
+exercise your rights, please contact us using the contact methods in the first section of this document.
 
-Where feasible, we will honour this privacy policy and any applicable laws for any
-information we do collect on you, including information given to us by remote servers
-in the Matrix Public Network and third party services like Telegram and Discord.
+Please note that we consult with The Matrix.org Foundation C.I.C. on how to process some requests. We
+commit to excluding your identifying information from the consultation process whenever possible, though
+may be required to provide a verbatim copy of your request to The Foundation for processing. You will
+be informed prior to these actions taking place.
 
-## Your rights as a Data Subject
+t2bot.io offers a service where your account on another third party service may be represented through
+us. Your rights extend to the t2bot.io representation of your third party account, pending verification
+that you are the account owner/operator on that third party service. For the purposes of this document,
+representational accounts are referred to as "your account".
 
-You have rights in relation to the personal data we hold about you. Some of these only
-apply in certain circumstances. Some of these rights are explored in more detail
-elsewhere in this document. For completeness, your rights under GDPR are:
+### Right to erasure
 
-1. The right to be informed.
-2. The right of access.
-3. The right to rectification.
-4. The right to erasure.
-5. The right to restrict processing.
-6. The right to data portability.
-7. The right to object.
-8. Rights in relation to automated decision making and profiling.
+You can request that we forget your copy of messages and files by instructing us to deactivate your
+account and indicating to us that you want us to forget your messages. What happens next depends on
+who else had access to the messages and files you had shared.
 
-We may ask for proof of identity before responding to your request. For more details
-about these rights, please see [the guidance provided by the ICO](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).
-If you have any questions or are unsure how to exercise your rights, please contact us.
+Any messages or files that were only accessible by your account will be deleted from our servers within
+30 days.
 
-## Right to erasure
+Where you shared messages or files with another registered Matrix user, that user will still have
+access to their copy of those messages or files. Apart from state events (see 'Exceptional erasure' below),
+these messages and files will not be shared with any unregistered or new users who view the room after
+we have processed your request to be forgotten.
 
-You can request that we forget copies of your messages and files by contacting us and
-making the request clear. What happens next depends on who else had access to the
-messages and files you shared.
+State events are processed differently to non-state events. State events are used by the Service to
+record, amongst other things, your membership in a room, the configuration of room settings, your
+changing of another user's power level and your banning a user from a room. Were we to erase these
+state events from a room entirely, it would be very damaging to other users' experience of the room,
+causing banned users to become unbanned, revoking legitimate administrator privileges, etc. We therefore
+share state events sent by your account with all non-essential data removed ('redacted'), even after
+we have processed your request to be forgotten. This means that your username will continue to be
+publicly associated with rooms in which you have participated, even after we have processed your
+request to be forgotten. We are monitoring The Matrix.org Foundation's work to solve this restriction
+and allow you to be fully forgotten while maintaining a high quality experience for other users. If
+this is not acceptable to you, please do not use the Service.
 
-Any messages or files that were only accessible by you will be deleted from our servers
-within 30 calendar days.
+Because an account deactivation actions the removal of any data which could be used to validate the
+ownership of an account, it is our policy to not reactivate deactivated accounts. This measure is in
+place to protect the privacy and integrity of all accounts.
 
-Where you shared messages or files with another Matrix user or homeserver, directly or
-indirectly, the other party may still have a copy of thsoe messages and files. For
-example, if you messaged another user while the t2bot.io homeserver was in the room, the
-other participant may still have a copy of your messages although t2bot.io will have
-deleted them. Similarly, you may still have a copy yourself even if t2bot.io deleted
-your messages. Apart from state events (see below), these messages and files will not
-be shared with any new users or unregistered users who view the room after we have
-processed your request to be forgotten.
+#### Exceptional erasure
 
-State events are processed differently to non-state events. State events are used by
-the Service to record, amongst other things, your membership in a room, the configuration
-of room settings, your changing of another user's power level, and your banning a user
-from a room. Were we to process erasure requests on these state events and delete them
-from a room entirely, it would be very damaging to other users' experience of the room.
-For example, banned users could become unbanned, revoking legitimate power levels, etc.
-We therefore share state events sent by you with all non-essential data removed
-("redacted"), even after we have processed your request to be forgotten. This means that
-your username will continue to be publicly accessible with rooms in which you have
-participated, even after we have processed your request to be forgotten. The Matrix team
-is [actively working on a solution to work around this restriction](https://matrix.org/blog/2018/05/08/gdpr-compliance-in-matrix/#mxid_erasure)
-and allow you to be fully forgotten while maintaining a high quality experience for
-other users. If this is not acceptable to you, please do not use the Service.
+As described above, erasing a state event may result in our needing to erase the entire conversation
+at the same time. Deciding whether to take this drastic step will require a balancing exercise to be
+carried out at the time of the request, and will depend on:
 
-### Exceptional erasure
+1. the nature of the Personal Data that the user is requesting to be erased;
+2. how many other users would have their fundamental rights and freedoms put at risk if the Right to
+   Erasure were to be exercised
+3. to what degree these other users would have their fundamental rights and freedoms put at risk if
+   the Right to Erasure were to be exercised
 
-As described above, erasing a state event may result in our needing to erase the entire
-conversation history or room from our servers. Deciding whether to take this drastic
-step will require a balancing exercise to be carried out at the time of the request,
-and will depend on:
+The Personal Data contained in a state event is usually limited to the username, the timestamp and
+the conversation in which the state event was issued. State events only represent that a user
+participated in a given conversation at a given time. It is rare that this data is sensitive enough
+to warrant its erasure given the drastic impact this will have on other users.
 
-* The nature of the personal data that is being requested to be erased.
-* How many other users would have their fundamental rights and freedoms put at risk if
-  the request was exercised as such.
-* To what degree these other users would have their fundamental rights and freedoms put
-  at risk if the request was exercised as such.
+Each case will be decided based on the factors listed above. In most situations we will not erase
+state events. In extreme situations, where not erasing state events will place people at material
+risk of harm, we may choose to erase state events or remove the entire conversation.
 
-The personal data contained in a state event is usually limited to the username, the
-timestamp, and the conversation in which the state event was issued. State events only
-represent that a user participated in a given conversation at a given time. It is rare
-that this data is sensitive enough to warrant its erasure given the drastic impact this
-will have on other users.
+### Data portability
 
-Each case is decided upon based on the factors listed above. In most situtations we will
-not erase state events. In extreme situations, where not erasing state events will place
-people at material risk of harm, we may choose to erase state events or remove the entire
-conversation.
+Under GDPR you have a right to request a copy of your data in a commonly-accepted format. If you
+would like a copy of your data, please send a request to the contacts listed in the first section of
+this document.
 
-## Data portability
+## What Information Do You Collect About Me and Why?
 
-Under GDPR you have a right to request a copy of the data we have of yours in a
-commonly-accepted format. If you would like a copy of your data, please contact us and
-indicate as such.
+The information we collect is purely for the purpose of providing your communication service via
+Matrix. We do not profile users or their data on the Service.
 
-## What we collect
+Be aware that while we do not profile users on the Service, third party Matrix clients may gather
+usage data. Similarly, third party services we represent your messages on may gather usage data.
 
-The information we collect is purely for the purpose of providing a communication
-service via Matrix. We do not profile users or their data on the Service.
+### Information you provide to us
 
-Be aware that while we do not profile users on the Service, third party services may
-gather usage data. Where our Service gathers usage data, it is anonymized and will
-ask for your consent before sending it to the relevant party. We do not receive
-this data.
+We collect information about you when you input it into the Service or otherwise provide it directly
+to us.
 
-We also collect information about you when you input it into the Service or otherwise
-provide it directly to us. Typically, this will be your username on Matrix.
+#### Account and profile information
 
-We do not allow account registrations on our Service and therefore do not record such
-information, unlike what may be collected by other homeservers for their operations.
+We collect information about you when representing you. This information is kept to a minimum on
+purpose, and is restricted to the following.
 
-Some bridges on the Service have a capability to use your real account instead of
-providing a t2bot.io-hosted proxy account. For example, it is possible to log in with
-your full Telegram account on t2bot.io's bridge to access Telegram over Matrix, or
-use your full Matrix account on another homeserver to have messages sent by you in
-Telegram to appear under your account. In both cases, we record the minimum possible
-credentials for these features to work. Logging in may also grant us access to more
-personal information supplied by you, such as your real name, email address, or
-phone number. We do not store this information unless it is critical for the feature
-to work.
+1. Username (if the third party service offers one)
+2. Display Name (if you have one set)
+3. Avatar (if you have one set)
+4. Third party service identifiers (account/user IDs, etc). These identifiers may be internal and
+   not fully visible to you on either service.
 
-We store and distribute the messages and files you share using the Service, and
-across the wider Matrix ecosystem via federation, as described by the Matrix protocol
-and according to the access rules configured within the system. Storing and sharing
-this content is the reason the Service exists.
+#### Content you provide through using the Service
+
+We store and distribute the messages and files you share using the Service (and across the wider
+Matrix ecosystem via federation) as described by the Matrix protocol and according to the access rules
+configured within the system. Storing and sharing this content is the reason the Service exists.
+
+This content may be processed by third party services when using a t2bot.io bridge or protocol converter.
 
 This content includes any information about yourself that you choose to share.
 
-We may need your personal information to establish, bring, or defend legal claims. For
-this purpose, we will retain your personal information for no longer than 7 years after
-the date it is no longer needed by us for any purposes listed in this document, as per
-the statutory recommendations.
+### Information we collect automatically as you use the Service
 
-Your IP address is logged when you access the Service. This data is used in order to
-mitigate abuse and debug operational issues. Our logs are kept for no longer than
-180 days.
+Currently, we log the IP addresses and user agents of everyone who accesses the Service. This data is
+used in order to mitigate abuse, debug operational issues, and monitor traffic patterns. Our logs are
+kept for not longer than 180 days.
 
-## Third parties
 
-As part of being a participant in the wider Matrix ecosystem, the Service may be required
-to share your information, messages, and files with users on different homeservers or
-even other messaging platforms.
+## What information is shared with third-parties and why?
 
-### Federation
+### Sharing data with connected services
 
-Matrix homeservers share user data with the wider ecosystem over federation. When you
-send messages or files in a room, a copy of the data is sent to all participants in the
-room, including (depending on room settings) participants who join the room in the
-future. If these participants are on remote homeservers, your user ID, display name,
-messages, and files may be replicated across each participating homeserver.
+We may share your information when working with our suppliers in order to provide the Service.
 
-We will forget your copy of your data upon your request. We will also forward your
-request to be forgotten onto federated homeservers. However, these homeservers are
-outside our span of control, so we cannot guarantee they will forget your data. Federated
-homeservers can be located anywhere in the world, and are subject to local laws and
-regulations.
+In addition, the t2bot.io homeserver is a decentralised and open service. This means that, to support
+communication between users on different homeservers or different messaging platforms, your username,
+display name, avatar, and messages and files are sometimes shared with other services that are connected
+with the t2bot.io homeserver.
 
-Access control settings are shared between homeservers, as well as any requests to
-remove messages by "redactions", or remove personal data under GDPR Article 17
-*Right to Erasure (Right to be Forgotten)*. Federated homeservers and Matrix clients
-which respect the Matrix protocol are expected to honour these controls and
-redaction/erasure requests, but other federated homeservers are outside of our span
-of control and thus we cannot guarantee how this data will be processed.
+#### Federation
 
-## Bridging
+Matrix homeservers share user data with the wider ecosystem over federation.
 
-Some Matrix rooms are connected/bridged through to third party services such as IRC
-networks, Twitter, or email. When a room has been bridged, your username, display name,
-messages, and files may be duplicated onto the bridged service where supported.
+When you send messages or files in a room, a copy of the data is sent to all participants in the room,
+including (depending on room settings) participants who join the room in future. If these participants
+are on remote homeservers, your username, display name, avatar, messages and files may be replicated
+across each participating homeserver.
 
-It may not be technically possible to support your management of your data once it has
-been copied to a bridged service.
+We will forget your copy of your data upon your request. We will also forward your request to be
+forgotten onto federated homeservers. However - these homeservers are outside our span of control,
+so we cannot guarantee they will forget your data.
 
-Bridged services can be located anywhere in the world and are subject to local laws and
-regulations.
+Federated homeservers can be located anywhere in the world, and are subject to local laws and regulations.
 
-Requests to delete/erase data through redactions and erasure requests are shared to
-bridged services, which are expected to honour them to the best of their ability. Be
-aware that not all bridged networks or bridges support the necessary technical abilities
-to limit, remove, or erase your data. If this is not acceptable to you, please do not
-use the Service or bridged rooms.
+Access control settings are shared between homeservers, as well as any requests to remove messages
+by "redactions", or remove personal data under GDPR Article 17 Right to Erasure (Right to be Forgotten).
+Federated homeservers and Matrix clients which respect the Matrix protocol are expected to honour
+these controls and redaction/erasure requests, but other federated homeservers are outside of the
+span of control of t2bot.io, and we cannot guarantee how this data will be processed. Federated
+homeservers can also be located in any territory, and will be subject to the local regulations of
+that territory.
 
-## Integration services (bots and widgets)
+#### Bridging and Protocol Conversion
 
-We offer a range of integrations in the form of bots and widgets (minature web
-applications accessed as part of a Matrix client). Bots are automated participants
-in a room. Both bots and widgets have access to all the messages and files in any
-room in which they participate, however the Matrix team is working on a more
-sophisticated access control system.
+Protocol conversion is a form of bridging which does not re-encrypt messages, if re-encryption would
+otherwise be required to operate the bridge.
+
+Some Matrix rooms are bridged to third-party services, such as Discord, Telegram, or the physical
+postal network. When a room has been bridged, your username, display name, avatar, messages and file
+transfers may be duplicated on the bridged service where supported.
+
+It may not be technically possible to support your management of your data once it has been copied
+onto a bridged service. Bridged services can be located anywhere in the world, and are subject to
+local laws and regulations.
+
+Access control settings, requests to remove messages by "redactions" or remove personal data under
+GDPR Article 17 Right to Erasure (Right to be Forgotten) are shared to bridging services, which are
+expected to honour them to the best of their ability. Be aware that not all bridged networks or
+bridges support the necessary technical capabilities to limit, remove or erase messages. If this is
+not acceptable to you, please do not use bridged rooms, which includes the majority of t2bot.io's
+Service.
+
+#### Integration services (bots and widgets)
+
+The t2bot.io homeserver provides a range of integrations in the form of Widgets (miniature web
+applications accessed as part of a Matrix Client) and Bots (automated participants in rooms).
+
+Bots and Widgets currently have access to all the messages and files in any room in which they
+participate, although The Matrix.org Foundation C.I.C. is adding a more sophisticated access control
+system. We are monitoring that work.
 
 ## Transfers of your data
 
-If you use our Service, your data will be transferred outside of the EU to other
-homeservers and services connected with t2bot.io as this is necessary to provide
-the Service to you. By the very nature of our Service, such transfers occur
-regularly and we have no control over the safeguards adopted by third party recipients.
+If you use our Service your data will be transferred outside of the EU to other homeservers and
+services connected with t2bot.io as this is necessary to provide the Service to you. By the very
+nature of our Service, such transfers will occur regularly and we have no control over the safeguards
+adopted by third party recipients.
 
-Where we engage suppliers to process your data outside the EU, we will ensure that
-appropriate safeguards such as the standard contractual clauses are in place.
+Where we engage suppliers to process your data outside the EU we will ensure that appropriate safeguards
+such as the Standard Contractual Clauses are in place.
 
-## Sharing your data in compliance with laws
+## Sharing data in compliance with enforcement requests and applicable laws
 
-In exceptional circumstances, we may share inforamtion about you with a third party
-if we believe that sharing is reasonably necessary to comply with any applicable law,
-regulation, legal process, governmental request, protect the security or integrity of
-our Service (security audits, for example), protect us and our users from harm or
-illegal activities, or respond to an emergency which we believe in good faith requires
-us to disclose information to assist in preventing the serious bodily harm of any
-person.
+In exceptional circumstances, we may share information about you with a third party if we believe
+that sharing is reasonably necessary to:
 
-## Commitment to children's privacy
+1. comply with any applicable law, regulation, legal process or governmental request,
+2. protect the security or integrity of our products and services (e.g. for a security audit),
+3. protect t2bot.io and our users from harm or illegal activities, or
+4. respond to an emergency which we believe in good faith requires us to disclose information to
+   assist in preventing the serious bodily harm of any person.
 
-We never knowingly collect, maintain, or process inforamtion in the Service from those
-we know are under the age of 16, and no part of the Service is structured to attract
-anyone under the age of 16. If you are under the age of 16, please do not use the
-Service.
+We typically provide this information through The Matrix.org Foundation C.I.C. for the purposes of
+involving law enforcement. The Foundation's guidelines can be found [here](https://matrix.org/legal/law-enforcement-guidelines/).
 
-## Updating/Correcting your information
+t2bot.io will abide by The Foundation's guidelines when sharing data with law enforcement directly.
 
-Your information can be updated by you through the service it was originally obtained
-from. For example, if information about you sent by one of our bridges is incorrect,
-updating your information on the bridged service will correct the issue.
+## How do you handle passwords?
 
-## Visibility of your messages and files
+t2bot.io does not process passwords or sensitive account credentials (access tokens, etc). t2bot.io
+does not have access to your account and only relies on details which are publicly visible or provided
+directly to the Service.
 
-In unencrypted and encrypted rooms, users connecting to our homeserver (over federation)
-will be able to see messages and files according to the access permissions configuration
-of the relevant room. This data is stored in a format it was received on our servers,
-and can be viewed by us under the conditions outlined below.
+## Our commitment to children's privacy
 
-In encrypted rooms, the data is stored in our databases encrypted but the encryption keys
-are retained by you. Some of our integrations support encrypted rooms, and they will be
-able to decrypt any messages or files for which they were supplied keys (the default
-operating mode of an encrypted room) - they will, however, discard any data not relevant
-to them once it has been processed.
+We never knowingly collect or maintain information in the Service from those we know are under 16,
+and no part of the Service is structured to attract anyone under 16. If you are under 16, please do
+not use the Service.
 
-We use HTTPS to transfer all data. End-to-end encrypted messaging data is stored
-encrypted using AES-256, using message keys generated using the
-[Olm and Megolm cryptographic ratchets](https://matrix.org/blog/2016/11/21/matrixs-olm-end-to-end-encryption-security-assessment-released-and-implemented-cross-platform-on-riot-at-last/).
+## How can I access or correct my information?
 
-## How we access your data
+You can request a download of a copy of all your data as per section 2.1.3.
 
-We restrict who can access user data internally to roles which require access in order
-to maintain health of the Service. We have technical procedures in place to prevent
-unauthorized access to user data. We never share what we see with other users or
-the general public.
+## Who can see my messages and files?
 
-## Third parties which may have access to your data
+In unencrypted and encrypted rooms, users connecting to the t2bot.io homeserver (directly or over
+federation) will be able to see messages and files according to the access permissions configuration
+of the relevant room. This data is stored in the format it was received on our servers, and can be
+viewed by our developers and engineers (employees, contractors, and owners) under the conditions
+outlined below.
 
-We host the majority of the Service in [Hetzner](https://www.hetzner.com/) datacenters.
-Here is [Hetzner's privacy policy](https://www.hetzner.com/rechtliches/datenschutz).
+Rooms have different visibility settings which are determined by the room administrators. The history
+visibility possibilities are the following, by increasing order of openness (least open first):
 
-We host much of the Service in [DigitalOcean](https://www.digitalocean.com/) datacenters.
-Here is [DigitalOcean's privacy policy](https://www.digitalocean.com/legal/privacy-policy/).
+* `joined`: people need to join the room to see the history, and will only see the messages sent after
+  they joined.
+* `invited`: people can only see messages sent after they were joined, no history is visible before
+  that point.
+* `shared`: people need to join the room to see the history, but will then see the history up to when
+  this visibility setting was set (the change is not retroactive).
+* `world_readable`: everyone can see the room history without even joining the room.
 
-We use secure private keys when accessing servers via SSH, and protect our cloud
-dashboards with a password managed by a password management tool.
+If you share information in a room set to world_readable this might be available to people outside
+the Matrix ecosystem and indexed by search engines, via projects such as archive.matrix.org. Please
+ensure that you double check the settings of each room before you participate and always avoid sharing
+personal and sensitive data in unencrypted rooms.
 
-We log application data (username, user IP, and user agent). We keep logs for no longer
-than 180 days.
+In encrypted rooms, the data is stored in our databases but the encryption keys are stored only on
+your devices or by yourself. We are unable to read your message content in our database. If you lose
+access to your encryption keys, you lose access to your messages forever.
 
-## Sale of t2bot.io
+We use HTTPS to transfer all data. End-to-end encrypted messaging data is stored encrypted using
+AES-256, using message keys generated using the Olm and Megolm cryptographic ratchets.
 
-In the event that we sell or buy any business or assets, we may disclose your personal
-data to the prospective seller or buyer. If we or substantially all of our assets are
-acquired by a third party, personal data held by us about our users will be one of
-the transferred assets.
+## What are the guidelines t2bot.io follows when accessing my data?
 
-We do not sell your data for any purpose.
+We restrict who can access user data to roles which require access in order to maintain the health of
+the Service.
 
-## Data protection
+We have technical procedures in place to prevent unauthorised access to user data.
 
-All of our users' data for the Service currently resides in the same database cluster
-which is due to the nature of our Service. We use software best practices to guarantee
-that only people who you designate as viewers of your data can access it. In other words,
-we segment our user data via software. We do our best and are very confident we're doing
-a good job at it, but, like every other service that hosts their user data on the same
-database, we cannot guarantee that it is immune to a sophisticated attack.
+We never share what we see with other users or the general public.
 
-## Security vulnerabilities
+## Who else has access to my data?
 
-If you find a security vulnerability with our Service, please report it responsibly
-per our [security disclosure policy](/docs/legal/security-disclosure-policy-v1).
+We host the majority of the Service in Hetzner data centres. Hetzner's privacy policy is available
+[here](https://www.hetzner.com/legal/privacy-policy/). We have a signed Data Processing Agreement with
+Hetzner to allow data to transit their networks.
 
-# Making a complaint
+We additionally host parts of the Service in DigitalOcean data centres. DigitalOcean's privacy policy
+is available [here](https://www.digitalocean.com/legal/privacy-policy).
 
-We try to meet the highest standards when collecting and using personal information. For
-this reason, we take any complaints we receive about this very seriously. We encourage
-people to bring it to our attention by contacting us if they think that our collection
-or use of information is unfair, misleading, or inappropriate. We would also welcome
-any suggestions for improving our procedures.
+Physical access to our offices and locations use typical physical access restrictions.
 
-If you want to make a complaint about the way we have processed your personal information
-to the supervisory authority, you can contact the ICO [here](https://www.ico.org.uk/concerns).
+We use secure private keys when accessing servers via SSH, and protect our passwords locally with a
+password management tool. We also use and require 2FA where available.
+
+We log application data (username, user IP, and user agent). We keep logs for no longer than 180 days.
+
+## What happens if t2bot.io is sold?
+
+In the event that we sell or buy any business or assets, we may disclose your personal data to the
+prospective seller or buyer of such business or assets.
+
+If we or substantially all of our assets are acquired by a third party, personal data held by us
+about our users will be one of the transferred assets.
+
+## How is my data protected from another user's data?
+
+All of our users' data for the Service currently resides in the same database cluster which is due
+to the nature of our Service. We use software best practices to guarantee that only people who you
+designate as viewers of your data can access it. In other words, we segment our user data via software.
+We do our best and are very confident we're doing a good job at it, but, like every other service
+that hosts their user data on the same database, we cannot guarantee that it is immune to a
+sophisticated attack.
+
+## What should I do if I find a security vulnerability in the Service?
+
+Please refer to our [Security Disclosure Policy](/docs/legal/security-disclosure-policy-v1/) for
+information on how to report a security issue with the Service.
+
+Please act in good faith towards our users' privacy and data during your disclosure. White hat
+security researchers are always appreciated.
+
+# Making a Complaint
+
+We try to meet the highest standards when collecting and using personal information. For this reason,
+we take any complaints we receive about this very seriously. We encourage people to bring it to our
+attention using the contact methods in the first section of this document if they think that our
+collection or use of information is unfair, misleading or inappropriate. We would also welcome any
+suggestions for improving our procedures.
+
+If you want to make a complaint about the way we have processed your personal information, please
+contact your local supervisory authority for reporting details.
 
 # Document history
 
-* November 2020: created.
+* v1.0 - first version - November 2020
+* v1.1 - update to align with matrix.org - May 2024
 
-**A note to other startups**: this document was heavily inspired by
-[Balsamiq's plain English ToS document](https://docs.balsamiq.com/mybalsamiq/tos/).
-We were impressed by their championing of plain English, and
-wanted to reproduce that as much as possible in our own legal documentation. Feel free
-to draw similar inspiration from this document, though be sure to get any documents you
-produce checked over by a lawyer. Good luck!
+**A note to other startups**: this document was heavily inspired by [Balsamiq's plain English ToS document](https://docs.balsamiq.com/mybalsamiq/tos/).
+We were impressed by their championing of plain English, and wanted to reproduce that as much as possible
+in our own legal documentation. Feel free to draw similar inspiration from this document, though be
+sure to get any documents you produce checked over by a lawyer. Good luck!
 
 This document is heavily inspired by [matrix.org's privacy notice](https://matrix.org/legal/privacy-notice).
