@@ -45,6 +45,22 @@ those who have responsibly disclosed security issues to us in the past.
 
 # Hall of Fame
 
+> *January 1st, 2025 - matrix-media-repo - [S7evinK](https://github.com/S7evinK)*<br />
+> Discovered that MMR is vulnerable to Server-Side Request Forgery in multiple places.
+> ([CVE-2024-52602](https://www.cve.org/CVERecord?id=CVE-2024-52602), [GHSA-r6jg-jfv6-2fjv](https://github.com/t2bot/matrix-media-repo/security/advisories/GHSA-r6jg-jfv6-2fjv))
+> Fixed in [v1.3.8](https://github.com/t2bot/matrix-media-repo/releases/tag/v1.3.8).
+
+> *January 1st, 2025 - matrix-media-repo - [hifi](https://github.com/hifi)*<br />
+> Discovered that malicious JSON responses could cause memory exhaustion.
+> ([CVE-2024-52791](https://www.cve.org/CVERecord?id=CVE-2024-52791), [GHSA-gp86-q8hg-fpxj](https://github.com/t2bot/matrix-media-repo/security/advisories/GHSA-gp86-q8hg-fpxj))
+> Fixed in [v1.3.8](https://github.com/t2bot/matrix-media-repo/releases/tag/v1.3.8).
+
+> *January 1st, 2025 - matrix-media-repo - [deepbluev7](https://github.com/deepbluev7) via the [matrix.org security team](https://matrix.org/security-disclosure-policy/)*<br />
+> Discovered lack of authentication on media download/thumbnail endpoints
+> ([CVE-2024-36402](https://www.cve.org/CVERecord?id=CVE-2024-36402), [GHSA-8vmr-h7h5-cqhg](https://github.com/t2bot/matrix-media-repo/security/advisories/GHSA-8vmr-h7h5-cqhg), [CVE-2024-36403](https://www.cve.org/CVERecord?id=CVE-2024-36403), [GHSA-vc2m-hw89-qjxf](https://github.com/t2bot/matrix-media-repo/security/advisories/GHSA-vc2m-hw89-qjxf))
+> Addressed by [MSC3916](https://github.com/matrix-org/matrix-spec-proposals/pull/3916).
+> Fixed in [v1.3.5](https://github.com/t2bot/matrix-media-repo/releases/tag/v1.3.5).
+
 > *September 6th, 2023 - matrix-media-repo - [joshqou](https://github.com/joshqou) via the [matrix.org security team](https://matrix.org/security-disclosure-policy/)*<br />
 > Discovered unsafe usage of `Content-Disposition: inline`, further unveiling improper `Content-Type` handling in matrix-media-repo
 > ([CVE-2023-41318](https://www.cve.org/CVERecord?id=CVE-2023-41318), [GHSA-5crw-6j7v-xc72](https://github.com/turt2live/matrix-media-repo/security/advisories/GHSA-5crw-6j7v-xc72)).
