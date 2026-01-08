@@ -7,6 +7,9 @@ header:
 siteBanners:
   - /_shared/site-banners.md
 
+banners:
+  - /_shared/do-not-use.md
+
 main:
   - body.md
   - /_shared/donate-banner.md
