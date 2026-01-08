@@ -8,8 +8,9 @@ siteBanners:
   - /_shared/site-banners.md
 
 banners:
-  - /_shared/encryption-enabled.md
-  - /_shared/beta-integration.md
+  # - /_shared/encryption-enabled.md
+  # - /_shared/beta-integration.md
+  - /_shared/discontinued.md
 
 main:
   - body.md

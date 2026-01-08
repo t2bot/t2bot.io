@@ -8,11 +8,12 @@ siteBanners:
   - /_shared/site-banners.md
 
 banners:
-  - /_shared/encryption-enabled.md
+  #- /_shared/encryption-enabled.md
   - /_shared/discontinued.md
 
 main:
   - body.md
+  - /_shared/donate-banner.md
 
 footer:
   - /_shared/footer.md

@@ -6,10 +6,6 @@ integrations:
       icon: mx-gitlab.png
       target: /gitlab
       body: "Track your issues, merge requests, and project's progress with the GitLab bot."
-    # - name: Trello
-    #   icon: mx-trello.png
-    #   target: /trellobot
-    #   body: "Coordinate and track your project with help from the Trello bot."
     - name: RSS
       icon: mx-rss.png
       target: /rssbot
@@ -18,8 +14,12 @@ integrations:
       icon: mx-email-bot.png
       target: /emailbot
       body: "Bring your newsletters into your room for maximum visibility."
+    - name: Reminders
+      icon: mx-reminder.png
+      target: /reminderbot
+      body: "Track what's coming up by setting reminders with the reminder bot."
 ---
 
-# Connect with the outside world
+# Build community
 
-Use your existing tooling to keep your community on top of things.
+Keep your community informed on what's going on.

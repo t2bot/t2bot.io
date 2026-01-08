@@ -20,7 +20,7 @@
 }
 
 .banners .banner.danger {
-	background-color: #ff7d2e;
+	background-color: #ba4903;
 }
 
 .banners .with-learn-more > p {
@@ -63,7 +63,7 @@
 
 .banners:not(.site) .banner.danger {
 	background-color: inherit;
-	border-color: #ff7d2e;
+	border-color: #ba4903;
 }
 
 .banners:not(.site) .with-learn-more a {

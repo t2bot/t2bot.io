@@ -10,23 +10,23 @@ siteBanners:
 
 main:
   - body.md
-  - ./integration/trello.md
+  #- ./integration/trello.md
   - ./integration/gitlab.md
   - ./integration/rss.md
   - ./integration/reminder.md
-  - ./integration/welcome-back-bot.md
-  - ./integration/dice.md
-  - ./integration/factorial.md
-  - ./integration/haiku.md
-  - ./integration/hyperbot.md
-  - ./integration/hashtag.md
-  - ./integration/smile.md
-  - ./integration/sed.md
-  - ./integration/ping.md
-  - ./integration/urbandictionary.md
-  - ./integration/reddit.md
+  #- ./integration/welcome-back-bot.md
+  # - ./integration/dice.md
+  # - ./integration/factorial.md
+  #- ./integration/haiku.md
+  #- ./integration/hyperbot.md
+  # - ./integration/hashtag.md
+  # - ./integration/smile.md
+  # - ./integration/sed.md
+  # - ./integration/ping.md
+  # - ./integration/urbandictionary.md
+  # - ./integration/reddit.md
   - ./integration/emailbot.md
-  - ./integration/triviabot.md
+  #- ./integration/triviabot.md
   - /_shared/donate-banner.md
 
 footer:

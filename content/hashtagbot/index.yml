@@ -8,7 +8,7 @@ siteBanners:
   - /_shared/site-banners.md
 
 banners:
-  - /_shared/encryption-enabled.md
+  # - /_shared/encryption-enabled.md
   - /_shared/discontinued.md
 
 main:
