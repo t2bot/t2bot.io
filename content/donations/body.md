@@ -19,4 +19,4 @@ Other options for donating include:
 * ETH: `0xeC06c80825A751D4891D53744771b4a18D57e530`
 
 
-Each month, t2bot.io receives approximately **$1400 USD** from the Matrix.org Foundation to cover core service costs. The service overall costs about **$1500 USD** to run each month, however. Your donations help fill this gap and make it possible to offer more bots and bridges. Please consider becoming a [member of the Matrix.org Foundation](https://matrix.org/support/) to support t2bot.io and all the other projects under the Foundation.
+Each month, t2bot.io receives approximately **$2000 USD** from the Matrix.org Foundation to cover core service costs. The service overall costs about **$2100 USD** to run each month, however. Your donations help fill this gap and make it possible to offer more bots and bridges. Please consider becoming a [member of the Matrix.org Foundation](https://matrix.org/support/) to support t2bot.io and all the other projects under the Foundation.
