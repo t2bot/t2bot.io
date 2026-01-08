@@ -12,7 +12,7 @@ main:
 
   - room/space.md
   - room/help.md
-  - room/status.md
+  # - room/status.md
   - room/news.md
 
   - _spacer.md
