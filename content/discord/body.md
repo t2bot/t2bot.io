@@ -49,8 +49,7 @@ room, see Question 3.
 
 ### 5. It's working in one direction, but not the other. Help!
 
-This is usually a permissions issue. Verify that the bot is allowed to see the channel on Discord, and that it has permission to manage webhooks and send messages. On Matrix, verify that the bot has joined the room and that it is
-not encrypted.
+This is usually a permissions issue. Verify that the bot is allowed to see the channel on Discord, and that it has permission to manage webhooks and send messages. On Matrix, verify that the room is not encrypted, the bot has joined it, and its role is at least a moderator (power level 50+).
 
 ### 6. What are all of the available commands?
 
